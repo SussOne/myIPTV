@@ -1,0 +1,139 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://bit.ly/3ZoIqIE",WTXLDT (ABC27 | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/chunklist_w2056690987_tkd293emF0b2tlbmhhc2g9M3hyZGdSLUg0LUt3WWhtMVM4QkMyTGMwYy1iaTVxei1WZ0hGd0ZvaHV0dz0=.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3Jk5K4o",WCTVDT (CBS | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/chunklist_w1019563880_tkd293emF0b2tlbmhhc2g9cTJJdnVObE0xOUN4VmFGcTN2aDk1SkZOMEJUeXcyVU50b3BPRG5xOWNDbz0=.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3ZshFCZ",WTWCDT2 (FOX49 | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/chunklist_w1765955945_tkd293emF0b2tlbmhhc2g9SzkxRVc0NEgzd2FTUTRVVmp6U3NqR0prU2E3TDRScUhSZEtIOE5mMXRkQT0=.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3yfYCjl",WTWCDT (NBC40 | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/chunklist_w1767560744_tkd293emF0b2tlbmhhc2g9QXM3eHNlVnRKQVd6TF9kUHdpc1BsZmhXdGtMT1YwR0lXTmFhZ0FiUTQzOD0=.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3KXhLOG",WFSUDT (PBS | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/chunklist_w775904695_tkd293emF0b2tlbmhhc2g9UF9CZkJMMXQ0ZGpwZ0hoNEoySWRPelB6Q3UtamdrU3F1cDZKdjh0UTZhST0=.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3ZISRq4",WFSUDT3 (Create | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/chunklist_w1495137475_tkd293emF0b2tlbmhhc2g9aG1BYzBxb29jWWphcnpmM082OEttQjJxNzhfX1daaXROaDJpT1RZTGRmOD0=.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3ZGnn4b",WTWCDT3 (CHARGE!)
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/chunklist_w1557556064_tkd293emF0b2tlbmhhc2g9MDRHZ2JObmxDZmtYM1RXeEFjdnZqbU1TYU1YM2tqdTkyVUoyVllxOURJTT0=.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3JjkhgV",WTLHDT (Heroes & Icons | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/HI.stream/chunklist_w139854203_tkd293emF0b2tlbmhhc2g9VGpBRkxIZE8wWFBIZ3BBb25iXzk3cV9JbGlBWkdNa2lQdWtycldNVjVnST0=.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3Nnhpyx",WTLHDT2 (The CW | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/chunklist_w902440578_tkd293emF0b2tlbmhhc2g9aTVCUEY2YTdaaE80LWxqWXZVdmE3WGZRVGZpaUFMbVFtR3FPY0xQd251WT0=.m3u8
+
+#EXTINF:-1 tvg-id="https://bit.ly/3spzqnP",WGNDT (WGN)
+https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
+
+#EXTINF:-1 tvg-id="xxx",WION
+https://d7x8z4yuq42qn.cloudfront.net:443/index_7.m3u8
+
+[#EXTINF:0 tvg-logo="https://bit.ly/3IXaXhb",WPIX (PIX11 | New York)]
+xxx
+[#EXTINF:-1 tvg-id="https://bit.ly/40hc2I7",KTLADT (The CW | Los Angeles)]
+xxx
+
+[#EXTINF:0 tvg-logo="https://bit.ly/2OCGE1p",WWOR (my9)]
+xxx
+
+[#EXTINF:0 tvg-logo="https://bit.ly/3SRkpHL",TNT (East)]
+XXX
+[#EXTINF:0 tvg-logo="https://bit.ly/3SRkpHL",TNT (West)]
+XXX
+
+[#EXTINF:0 tvg-logo="https://bit.ly/3eeWcLs",TBS (East)]
+XXX
+[#EXTINF:0 tvg-logo="https://bit.ly/3eeWcLs",TBS (West)]
+XXX
+
+[#EXTINF:0 tvg-logo="https://bit.ly/3CnrYy5",TCM (East)]
+XXX
+[#EXTINF:0 tvg-logo="https://bit.ly/3CnrYy5",TCM (West)]
+XXX
+
+#EXTINF:0 tvg-logo="https://bit.ly/3CirKbi",BBC America 
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3CirKbi",BBC America 
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/profile_0/chunklist.m3u8
+
+[#EXTINF:0 tvg-logo="https://bit.ly/3SSVQtQ",AMC]
+XXX
+
+#EXTINF:0 tvg-logo="https://bit.ly/3SWsmet",Sundance TV
+https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3JgHOPA",IFC
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
+
+[#EXTINF:0,HBO Comedy]
+xxx
+[#EXTINF:0 tvg-logo="https://bit.ly/3mr92Kh",HBO (East)]
+xxx
+[#EXTINF:0 tvg-logo="https://bit.ly/3mr92Kh",HBO (West)]
+xxx
+[#EXTINF:0,HBO Family]
+xxx
+[#EXTINF:0,HBO Signature]
+xxx
+[#EXTINF:0 tvg-logo="https://bit.ly/3ZFwGBt",HBO Zone (East)]
+xxx
+[#EXTINF:0 tvg-logo="https://bit.ly/3ZFwGBt",HBO Zone (East)]
+xxx
+[#EXTINF:0 tvg-logo="https://bit.ly/4242BNR",HBO 2 (East)]
+xxx
+[#EXTINF:0 tvg-logo="https://bit.ly/4242BNR",HBO 2 (West)]
+XXX
+
+[#EXTINF:0 tvg-logo="https://bit.ly/3L9Nn3I",Cinemax (East)]
+XXX
+[#EXTINF:0 tvg-logo="https://bit.ly/3fWIflG",Cinemax (West)]
+xxx
+[#EXTINF:0 tvg-logo="https://bit.ly/3JwA1gM",ActionMax]
+xxx
+
+[#EXTINF:0,WTXLDT2 (BOUNCE HD | New York)]
+xxx
+
+[#EXTINF:0 tvg-logo="https://bit.ly/3ywT440",BET Her]
+xxx
+[#EXTINF:0 tvg-logo="https://bit.ly/3L2YCuF",BET (West)]
+xxx
+[#EXTINF:0 tvg-logo="https://bit.ly/3Zv14yC",VH1]
+XXX
+
+#EXTINF:0 tvg-logo="https://bit.ly/3yk5wnE",WTWCDT3 (CHARGE!)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3yk5wnE",WTWCDT3 (CHARGE!)
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+[#EXTINF:0 tvg-logo="https://bit.ly/41TJDZW",Ion Television]
+xxx
+
+#EXTINF:0 tvg-logo="https://bit.ly/3F2pbME",Ion Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3BbrSsP",REELZ
+https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/profile_0/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3CvyPVV",REELZ
+https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/profile_0/chunklist.m3u8
+
+[#EXTINF:0 tvg-logo="https://bit.ly/40YNWm5",Lifetime]
+XXX
+#EXTINF:0 tvg-logo="https://bit.ly/3o33JSj",Télé Québec HD
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+[#EXTINF:0 tvg-logo="https://bit.ly/3GAGWna",Heartland]
+XXX
+#EXTINF:0 tvg-logo="https://bit.ly/3o3Aa2O",Retro TV
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_0/chunklist.m3u8
+#EXTINF:0 tvg-logo="XXX",BBC Drama
+https://bbceu-bbcdrama-2-it.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="XXX",TEST
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/1920x1080_4870800/index.m3u8
+
+#EXTINF:-1 tvg-id="https://bit.ly/3eLsHkz",myTV San Antonio TX (KCWX-TV)
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
