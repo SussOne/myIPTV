@@ -1,0 +1,166 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://bit.ly/3ZwuQTA",DR1
+https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master8000.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3ZwuQTA",DR1
+https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master5500.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3SYzmYs",DR2
+https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master8000.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3SYzmYs",DR2
+https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master5500.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3ymUsXa",DR RamaSjang
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master5500.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3IUbsJ0",DRTV
+https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master5500.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3L7lc5p",DRTV Ekstra
+https://drevent02hls.akamaized.net/hls/live/2028694/drevent02/master5500.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hATNB38.jpg",Kanal Hovedstaden
+https://59b954022ec35.streamlock.net/liveTV2/smil:liveTVstream2.transcoder.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/cpl90ZC.png",KKRtv
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/cpl90ZC.png",KKRtv
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ylB5ea2.jpg",TV2/Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1p0QvY6.png",TV2/Fyn
+https://cdn-lt-live.tv2fyn.dk/dc-0/live/hls/p/1966291/e/0_vsfrv0zm/sd/6000/t/2eGlsBmOnpkK1g0-J_56AA/index-s32.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IxJIiLJ.jpg",TV2/Lorry
+https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IxJIiLJ.jpg",TV2/Ostjylland
+https://cdnapisec.kaltura.com/p/2102081/sp/2102081/playManifest/entryId/0_x4p3licd/flavorIds/0_pcvatr5k,0_aezqkdsi,0_dkeq429y,0_99pivdxs/deliveryProfileId/10552/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:0,KVF
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w908016646_b4128000_slfao.m3u8
+#EXTINF:0,KVF
+https://w1.kringvarp.fo/uttanlands/_definst_/720/chunklist_w111480005.m3u8
+
+#EXTINF:0,LRT Televizija
+https://lrthd.lrt.lt/secure/lrt_hd/hls/buOLV2lnePQSjDGZFL1iUg/1618734937/lrt_televizija_1080p/index.m3u8
+
+#EXTINF:0,LRT Plius
+https://plius.lrt.lt/secure/plius/hls/4UWaRIAjXdhRxnPTeR6hRQ/1618734959/lrt-plius_1080p/index.m3u8
+
+#EXTINF:0,LRT Lituanica
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+
+#EXTINF:0,Malmö MK
+http://82.96.17.34/edge/_8ynhbua3_/8ynhbua3/chunklist_w471369106.m3u8?id=&s_referrer=http%3A%2F%2Ftvmalmo.se%2Flive%2F&s_type=1
+
+#EXTINF:0 tvg-logo="https://bit.ly/3T0xhv9",NRK1
+https://nrk-nrk1-oslo-viken.akamaized.net/21/0/hls/nrk_1/1035432803-1026273474-prog_index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3l4ucgS",NRK2
+https://httpcache0-47115-httpcache0.dna.qbrick.com/47115-cachelive0/22/0/hls/nrksuper/1955020115-123787468-prog_index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3l4ucgS",NRK2
+https://httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive0/22/0/hls/nrk_2/1955020115-123787468-prog_index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3ZN37O4",NRK3
+https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3ZN37O4",NRK3
+https://nrk-live-no.telenorcdn.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3ZGQEvo",NRKsuper
+https://nrk-live-no.telenorcdn.net/24/0/hls/nrksuper/1709241829-123787468-prog_index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3ZGQEvo",NRKsuper
+https://nrk-nrk1.akamaized.net/24/0/hls/nrk1/1955020115-123787468-prog_index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3ZGQEvo",NRKsuper
+https://httpcache0-47115-httpcache0.dna.qbrick.com/47115-cachelive0/24/0/hls/nrksuper/1955020115-123787468-prog_index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3ZGQEvo",NRKsuper
+https://nrk-nrksuper.akamaized.net/24/0/hls/nrksuper/1955020115-123787468-prog_index.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3F8Xr9f",NRKTegnspråk
+https://nrk-nrk-tegnspraak.akamaized.net/25/0/hls/nrk_tegnspraak/1955020115-123787468-prog_index.m3u8
+
+#EXTINF:0,Re:TV
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/chunklist_b1128000_t64NDgwcA==.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3yodlbY",RÚV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream5.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3yodlbY",RÚV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3J2nsby",RÚV2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index_5.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3J2nsby",RÚV2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3kQ5f9b",SVT1
+https://svt1-c.akamaized.net/se/svt1/master.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3YxO7Cy",SVT2
+https://svt2-c.akamaized.net/se/svt2/master.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3kXx7rO",SVT Barn
+https://svtk-c.akamaized.net/se/svtb/master.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3l4vicu",SVT24
+https://svtk-c.akamaized.net/se/svtb/master.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/3IXkHbj",SVT Kunskapskanalen
+https://svtk-c.akamaized.net/se/svtk/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5CdW62M.png",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5CdW62M.png",Oppna Kanalen
+https://edg03-prd-se-ixn.solidtango.com/edge/451iw2h/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3ZzcIZk",TV4
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Mol9GKz.jpg",Vastmanlands TV
+https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8
+
+#EXTINF:0,TV Syd +
+https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3F6vcIu",YLE TV1
+https://yletv.akamaized.net/hls/live/622365/yletv1fin/yletv_video1080p50.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3T0o6Lc",YLE TV2
+https://yletv.akamaized.net/hls/live/622366/yletv2fin/yletv_video1080p50.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3Yspszn",YLE TEEMA FEM
+https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/yletv_video1080p50.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyJNiXy.png",Himlen TV7
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rb.gy/4li5u2",MTV Uutiset
+https://mtvdashliveusp2-a.akamaized.net/live/E39USP/E39USP.isml/E39USP.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJMSG8P.png",Nar-TV
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnJqVAb.png",AlfaTV
+https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/chunklist_b1128000.m3u8?organizationId=4507452&suiteItemId=4515276
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnJqVAb.png",AlfaTV
+https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnJqVAb.png",AlfaTV
+https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2QEWscr.png",INEZ
+https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/master.m3u8?organizationId=14520912&suiteItemId=14521292
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2QEWscr.png",INEZ
+https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2QEWscr.png",INEZ
+https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/chunklist_b2628000.m3u8?organizationId=14520912&suiteItemId=14521292
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2QEWscr.png",INEZ
+https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgK0pJN.png",KotiTV
+https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8?organizationId=83459409&suiteItemId=83459780
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgK0pJN.png",KotiTV
+https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgK0pJN.png",KotiTV
+https://kotitv.digitacdn.net/amlst:kotitv.amlst/chunklist_b2628000.m3u8?organizationId=83459409&suiteItemId=83459780
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgK0pJN.png",KotiTV
+https://kotitv.digitacdn.net/amlst:kotitv.amlst/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3JnHlLt",NPO1 Extra
+https://epg.pw/stream/a05ef2e176324fb1f5e86eed9c57695f6990b4b420a66d7fa1de9b2ac91fb068.ctv
+#EXTINF:-1 tvg-logo="https://bit.ly/3T6qMXF",NPO2 Extra
+https://epg.pw/stream/2cc9013ab0683e1cc99938ce526c1952149fdbba4e7794e28dbb0db78508018f.ctv
+#EXTINF:-1 tvg-logo="https://bit.ly/3IYS7X1",NPO2
+https://epg.pw/stream/4e58129da4ccb881b7b49248e0624bb039b725ccbc7c6d429d41146c5f40ad54.ctv
+#EXTINF:-1 tvg-logo="https://bit.ly/41SKRET",NPO3
+https://epg.pw/stream/66102ee0e1693cee6cc7bee58f30f8f7e7ecd3ac63f052628f11fc3a42f88f76.ctv
+#EXTINF:-1 tvg-logo="https://bit.ly/3Te8fZL",NPO Politiek en Nieuws
+https://epg.pw/stream/89222400ac57c37bcc90ab21cb727c3f54247836c57870795fdae32ae2ac1e36.ctv
+#EXTINF:-1 tvg-logo="https://bit.ly/3ZuG5vJ",fanpop
+https://epg.pw/stream/c6d8a250e4a9c8cc2805ee9d5e3c5808a0a93b24d45b5e5a89566d2de91357e6.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3IZCX3V",RTLZWEI
+https://epg.pw/stream/3e241412436ec57f86add6df9b707ba1eb48316c14aa0b83f3424ea759000583.ctv
