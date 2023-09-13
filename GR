@@ -119,6 +119,8 @@ https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/MFJJOuf.jpg"group-title="",OPEN SPORT 2
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/opentvlive/openlatin2/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://bit.ly/3XGLG1E",Centova Cast
+http://cast4.my-control-panel.com/proxy/kris1/stream
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",Real FM 97.8
 http://realfm.live24.gr/realfm
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",Στο Κόκκινο 105.5
