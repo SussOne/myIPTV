@@ -121,10 +121,14 @@ https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/opentvlive/openlatin2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://bit.ly/3XGLG1E",São Paulo
 http://cast4.my-control-panel.com/proxy/kris1/stream
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://rb.gy/brb86"group-title="",Real FM 97.8
+#EXTINF:-1 tvg-logo="https://rb.gy/brb86",Real FM 97.8
 http://realfm.live24.gr/realfm
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://rb.gy/8nbu1"group-title="",Στο Κόκκινο 105.5
+#EXTINF:-1 tvg-logo="https://rb.gy/8nbu1",Στο Κόκκινο 105.5
 https://n0c.radiojar.com/kokkino-ath.mp3?rj-ttl=5&rj-tok=AAABh7nCqkkAkZAlumMyNXd4cg
+#EXTINF:-1 tvg-logo="https://rb.gy/82js2",Alpha 98.9
+https://n0e.radiojar.com/xcdg6yggzfeuv?1695211304=&rj-tok=AAABirKBA1oAd0x68tCqHieLYQ&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://rb.gy/jfk1w",Παραπολιτικά FM 90.1
+https://netradio.live24.gr/athinaradio
 #EXTINF:-1 tvg-name="RIK Sat"tvg-id=""tvg-logo="https://i.imgur.com/ujQHWGy.png"group-title="",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Sigma TV"tvg-id=""tvg-logo="https://shorturl.at/aIMSV"group-title="",SIGMA Cyprus
