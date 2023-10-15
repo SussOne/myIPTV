@@ -16,6 +16,8 @@ http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/makt
 #EXTINF:-1 tvg-name="mtv"tvg-id=""tvg-logo="https://rb.gy/ztfi0"group-title="",Makedonia TV
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_3.m3u8
 #EXTINF:-1 tvg-name="mega"tvg-id=""tvg-logo="https://i.imgur.com/yyp6tS5.png"group-title="",MEGA
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307884.ts
+#EXTINF:-1 tvg-name="mega"tvg-id=""tvg-logo="https://i.imgur.com/yyp6tS5.png"group-title="",MEGA
 https://streamcdnh10-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 #EXTINF:-1 tvg-name="mega"tvg-id=""tvg-logo="https://i.imgur.com/yyp6tS5.png"group-title="",MEGA
 https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
@@ -24,11 +26,15 @@ http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/pl
 #EXTINF:-1 tvg-name="mega"tvg-id=""tvg-logo="https://i.imgur.com/yyp6tS5.png"group-title="",MEGA
 https://streamcdnb2-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3JsQfra"group-title="",ALPHA
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307898.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3JsQfra"group-title="",ALPHA
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3JsQfra"group-title="",ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
 #EXTINF:-1 tvg-name="alpha"tvg-id=""tvg-logo="https://bit.ly/3JsQfra"group-title="",ALPHA
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-name="star"tvg-id=""tvg-logo="https://bit.ly/3mD2VCJ"group-title="",STAR
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307891.ts
 #EXTINF:-1 tvg-name="star"tvg-id=""tvg-logo="https://bit.ly/3mD2VCJ"group-title="",STAR
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-name="star"tvg-id=""tvg-logo="https://bit.ly/3mD2VCJ"group-title="",STAR
@@ -67,7 +73,7 @@ http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive/chunks.m3u8
 #EXTINF:-1 tvg-name="bluesky"tvg-id=""tvg-logo="https://bit.ly/3ZYAbTd"group-title="",BLUE SKY
 http://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:-1 tvg-name="bluesky"tvg-id=""tvg-logo="https://bit.ly/3ZYAbTd"group-title="",BLUE SKY
+#EXTINF:-1 tvg-name="bluesky"tvg-id=""tvg-logo="https://rb.gy/pt6jd"group-title="",BLUE SKY
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/43gTARX"group-title="",One Channel
 https://til.pp.ua:3391/live/channeln9live.m3u8
@@ -125,8 +131,8 @@ http://cast4.my-control-panel.com/proxy/kris1/stream
 http://realfm.live24.gr/realfm
 #EXTINF:-1 tvg-logo="https://rb.gy/8nbu1",Στο Κόκκινο 105.5
 https://n0c.radiojar.com/kokkino-ath.mp3?rj-ttl=5&rj-tok=AAABh7nCqkkAkZAlumMyNXd4cg
-#EXTINF:-1 tvg-logo="https://rb.gy/82js2",Alpha 98.9
-https://n0e.radiojar.com/xcdg6yggzfeuv?1695211304=&rj-tok=AAABirKBA1oAd0x68tCqHieLYQ&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://rb.gy/rc1gg",talk RADIO 98.9
+https://n01.radiojar.com/xcdg6yggzfeuv?1696420729=&rj-tok=AAABivqXbtcAX0myT2I7q8tvuA&rj-ttl=5
 #EXTINF:-1 tvg-logo="https://rb.gy/jfk1w",Παραπολιτικά FM 90.1
 https://netradio.live24.gr/athinaradio
 #EXTINF:-1 tvg-name="RIK Sat"tvg-id=""tvg-logo="https://i.imgur.com/ujQHWGy.png"group-title="",RIK SAT
