@@ -20,6 +20,12 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:0 tvg-id="192tv.nl" tvg-logo="https://bit.ly/3CXmVWi",192 TV
 https://ms7.mx-cd.net/dtv-02/87-308033/192TV.smil/chunklist_w1276310355_b4292608_slNLD.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/mycgf", Radio Italia Anni 60 TV
+https://5f204aff97bee.streamlock.net/Anni60TV/livestream/chunklist_w103717670.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/7itja", 4ACETV Classic Hits
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/19d3baa0-a7d8-461d-9c47-650eae7699be/2.m3u8
+
 [#EXTINF:0 tvg-logo="https://bit.ly/3Lnk11K",That's 60s]
 [#EXTINF:0 tvg-logo="https://bit.ly/403Ysrc",That's 70s]
 [#EXTINF:0 tvg-logo="https://bit.ly/3JgSgoX",That's 80s]
@@ -39,7 +45,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 [#EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK]
 
 [#EXTINF:0 tvg-logo="https://bit.ly/3Yp3rBI",Jukebox]
-[#EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC]
+
+#EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC
+http://ultrontv.xyz:80/live/Mahen123/Mahen77/168736.ts
 
 #EXTINF:-1,TVM3ᶠʰᵈ
 https://edge19.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8?spark=aa58f8f8-108f-4de2-8423-dd812b604624&token=
@@ -54,16 +62,17 @@ https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8?checkedby:iptvcat.
 [#EXTINF:0 tvg-logo="https://bit.ly/40BWrTA",BET Jams]
 [#EXTINF:0 tvg-id="MTVGermany.de" tvg-logo="https://bit.ly/3yfZuV9",MTV GERMANY]
 
-[#EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80s]
-
-[#EXTINF:0 tvg-logo="https://bit.ly/3Jhsh1P",MTV 90s]
-
+#EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80s
+http://wagnet.club:2052/live/sam123/sam123/1604946.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3Jhsh1P",MTV 90s
+http://wagnet.club:2052/live/sam123/sam123/1604947.ts
 #EXTINF:0 tvg-id="MTV00s.eu" tvg-logo="https://bit.ly/3Jk0f67",MTV 00s
 http://91.146.94.234:10001/play/a03k
 #EXTINF:0 tvg-id="MTV00s.eu" tvg-logo="https://bit.ly/3Jk0f67",MTV 00s
 http://195.24.89.82/VH1_SD/index.m3u8
 
-[#EXTINF:0 tvg-logo="https://bit.ly/3ZtR4pk",AXSTVᴴᴰ]
+#EXTINF:0 tvg-logo="https://bit.ly/3ZtR4pk",AXSTVᴴᴰ
+https://ddh1.webdicdn.lol/ddh1/premium742/tracks-v1a1/mono.m3u8
 [#EXTINF:0 tvg-logo="https://bit.ly/3elTDaF",AXSTVᴴᴰ]
 [#EXTINF:0 tvg-logo="https://bit.ly/3elTvYJ",AXSTVᴴᴰ]
 
@@ -167,6 +176,8 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3LvNmXP",DEEJAY
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3LvNmXP",DEEJAY
+https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ljPyHk",m2o TVᶠʰᵈ
 https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3206118.m3u8
