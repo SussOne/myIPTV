@@ -20,6 +20,13 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:0 tvg-id="192tv.nl" tvg-logo="https://bit.ly/3CXmVWi",192 TV
 https://ms7.mx-cd.net/dtv-02/87-308033/192TV.smil/chunklist_w1276310355_b4292608_slNLD.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="xxx", Tele Melody
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/506492.ts
+#EXTINF:0 tvg-id="" tvg-logo="xxx", Tele Melody
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/507289.ts
+#EXTINF:0 tvg-id="" tvg-logo="xxx", Tele Melody
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/507478.ts
+
 #EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/mycgf", Radio Italia Anni 60 TV
 https://5f204aff97bee.streamlock.net/Anni60TV/livestream/chunklist_w103717670.m3u8
 
@@ -31,20 +38,23 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 [#EXTINF:0 tvg-logo="https://bit.ly/3JgSgoX",That's 80s]
 [#EXTINF:0 tvg-logo="https://bit.ly/3YOWxpg",That's 90s]
 
-[#EXTINF:01 tvg-id="Now70s.uk" tvg-logo="https://bit.ly/3L2E45E",NOW 70s]
-
+#EXTINF:01 tvg-id="Now70s.uk" tvg-logo="https://bit.ly/3L2E45E",NOW 70s
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/164022.ts
 #EXTINF:01 tvg-id="Now70s.uk" tvg-logo="https://bit.ly/3L2E45E",NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-[#EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s]
+#EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/164012.ts
 #EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/163796.ts
+#EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-[#EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK]
 
-[#EXTINF:0 tvg-logo="https://bit.ly/3Yp3rBI",Jukebox]
+#EXTINF:0 tvg-logo="https://bit.ly/3Yp3rBI",Jukebox
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/969621.ts
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/168736.ts
@@ -58,9 +68,13 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8?checkedby:
 #EXTINF:-1,TVM3ᶠʰᵈ
 https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8?checkedby:iptvcat.com
 
-[#EXTINF:0 tvg-logo="https://bit.ly/3K4ptEL",BET Soul]
-[#EXTINF:0 tvg-logo="https://bit.ly/40BWrTA",BET Jams]
-[#EXTINF:0 tvg-id="MTVGermany.de" tvg-logo="https://bit.ly/3yfZuV9",MTV GERMANY]
+#EXTINF:0 tvg-logo="https://bit.ly/3K4ptEL",BET Soul
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/533619.ts
+#EXTINF:0 tvg-logo="https://bit.ly/40BWrTA",BET Jams
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/550715.ts
+
+#EXTINF:0 tvg-id="MTVGermany.de" tvg-logo="https://bit.ly/3yfZuV9",MTV GERMANY
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/411606.ts
 
 #EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80s
 http://wagnet.club:2052/live/sam123/sam123/1604946.ts
