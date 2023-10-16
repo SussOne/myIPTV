@@ -409,8 +409,16 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
 http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
+http://iptvprime.pro:8080/live/eyvnc6mn/8bt7ENurkZvX/281603.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
+http://iptvprime.pro:8080/live/eyvnc6mn/8bt7ENurkZvX/281737.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
+http://obshd.tv:25461/live/Exchcyprusiptv/cDbcUX4ehD/54132.ts
 #EXTINF:0,Novacinema 3
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534443.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",5K
+http://tv.dominiotv.xyz:25461/live/Sanchez_2023nj/68976098/65666.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3V4Yuh4"group-title="",ABC-TV (Paraguayan TV channel)
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3V4Yuh4"group-title="",ABC-TV (Paraguayan TV channel)
