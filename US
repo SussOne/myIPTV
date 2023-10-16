@@ -95,34 +95,30 @@ https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/62407
 #EXTINF:0 tvg-logo="https://bit.ly/3JgHOPA",IFC
 https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
 
-[#EXTINF:0,HBO Comedy]
-xxx
-[#EXTINF:0 tvg-logo="https://bit.ly/3mr92Kh",HBO (East)]
-xxx
-[#EXTINF:0 tvg-logo="https://bit.ly/3mr92Kh",HBO (West)]
-xxx
-[#EXTINF:0,HBO Family]
-xxx
-[#EXTINF:0,HBO Signature]
-xxx
-[#EXTINF:0 tvg-logo="https://bit.ly/3ZFwGBt",HBO Zone (East)]
-xxx
-[#EXTINF:0 tvg-logo="https://bit.ly/3ZFwGBt",HBO Zone (East)]
-xxx
-[#EXTINF:0 tvg-logo="https://bit.ly/4242BNR",HBO 2 (East)]
-xxx
-[#EXTINF:0 tvg-logo="https://bit.ly/4242BNR",HBO 2 (West)]
-XXX
+#EXTINF:0,HBO Comedy
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220498
+#EXTINF:0 tvg-logo="https://bit.ly/3mr92Kh",HBO (East)
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220495
+#EXTINF:0 tvg-logo="https://bit.ly/3mr92Kh",HBO (West)
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220496
+#EXTINF:0,HBO Family (East)
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220572
+#EXTINF:0,HBO Signature (East)
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220501
+#EXTINF:0 tvg-logo="https://bit.ly/3ZFwGBt",HBO Zone (East)
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220500
+#EXTINF:0 tvg-logo="https://bit.ly/4242BNR",HBO 2
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220497
 
-[#EXTINF:0 tvg-logo="https://bit.ly/3L9Nn3I",Cinemax (East)]
-XXX
+#EXTINF:0 tvg-logo="https://bit.ly/3L9Nn3I",Cinemax (East)
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220468
 [#EXTINF:0 tvg-logo="https://bit.ly/3fWIflG",Cinemax (West)]
 xxx
-[#EXTINF:0 tvg-logo="https://bit.ly/3JwA1gM",ActionMax]
-xxx
+#EXTINF:0 tvg-logo="https://bit.ly/3JwA1gM",ActionMax
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220467
 
-[#EXTINF:0,WTXLDT2 (BOUNCE HD | New York)]
-xxx
+#EXTINF:0,WTXLDT2 (BOUNCE HD | New York)
+http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220133
 
 [#EXTINF:0 tvg-logo="https://bit.ly/3ywT440",BET Her]
 xxx
