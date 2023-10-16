@@ -409,9 +409,62 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
 http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:0,Novacinema 3
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534443.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3V4Yuh4"group-title="",ABC-TV (Paraguayan TV channel)
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3V4Yuh4"group-title="",ABC-TV (Paraguayan TV channel)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3V4Yuh4"group-title="",ABC-TV (Paraguayan TV channel)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
+
+#EXTINF:0,Cosmote Sports 1
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307824.ts
+#EXTINF:0,Cosmote Sports 2
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307822.ts
+#EXTINF:0,Cosmote Sports 3
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307820.ts
+#EXTINF:0,Cosmote Sports 4
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307818.ts
+#EXTINF:0,Cosmote Sports 5
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307816.ts
+#EXTINF:0,Cosmote Sports 6
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307814.ts
+#EXTINF:0,Cosmote Sports 7
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307812.ts
+#EXTINF:0,Cosmote Sports 8
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307810.ts
+#EXTINF:0,Cosmote Sports 9
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/307808.ts
+
+#EXTINF:0,Novasports 1
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534451.ts
+#EXTINF:0,Novasports 2
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534450.ts
+#EXTINF:0,Novasports 3
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534449.ts
+#EXTINF:0,Novasports 4
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534448.ts
+#EXTINF:0,Novasports 5
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534447.ts
+#EXTINF:0,Novasports Prime
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/719352.ts
+#EXTINF:0,Novasports Starts
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/719351.ts
+#EXTINF:0,Novasports Extra 1
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/1137587.ts
+#EXTINF:0,Novasports Extra 2
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/1137586.ts
+#EXTINF:0,Novasports Extra 3
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/1137585.ts
+#EXTINF:0,Novasports Extra 4
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/1137584.ts
+
+#EXTINF:0,Novacinema 1
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534476.ts
+#EXTINF:0,Novacinema 2
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534444.ts
+#EXTINF:0,Novacinema 4
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534442.ts
+#EXTINF:0,Novalife
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534441.ts
