@@ -46,10 +46,14 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/164012.ts
 #EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
+http://x.bloodshot.eu:8080/live/1Awjmuna3j/kTUxKRg7Hw/56307.ts
+#EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/163796.ts
+#EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK
+http://x.bloodshot.eu:8080/live/1Awjmuna3j/kTUxKRg7Hw/56308.ts
 #EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -58,6 +62,10 @@ http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/969621.ts
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/168736.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC
+http://ufospeeds.com:2095/live/86156491107/6956424474/89.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC
+http://ufospeeds.com:2095/live/86156491107/6956424474/32731.ts
 
 #EXTINF:-1,TVM3ᶠʰᵈ
 https://edge19.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8?spark=aa58f8f8-108f-4de2-8423-dd812b604624&token=
@@ -78,12 +86,40 @@ http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/411606.ts
 
 #EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80s
 http://wagnet.club:2052/live/sam123/sam123/1604946.ts
+#EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80s
+http://x.bloodshot.eu:8080/live/1Awjmuna3j/kTUxKRg7Hw/56286.ts
+#EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80s
+http://x.bloodshot.eu:8080/live/1Awjmuna3j/kTUxKRg7Hw/56289.ts
+#EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80s
+http://x.bloodshot.eu:8080/live/mariolopesluis01/uqAmoBxh9c/56286.ts
+#EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80s
+http://x.bloodshot.eu:8080/live/mariolopesluis01/uqAmoBxh9c/56289.ts
+#EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80s
+http://x.bloodshot.eu:8080/live/ngwaa6A3bn/KbmQuv9Xm1/56286.ts
+#EXTINF:0 tvg-logo="https://m5.gs/N0RNdG",MTV 80shttp://ufospeeds.com:2095/live/86156491107/6956424474/15133.ts
+
+
 #EXTINF:0 tvg-logo="https://bit.ly/3Jhsh1P",MTV 90s
 http://wagnet.club:2052/live/sam123/sam123/1604947.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3Jhsh1P",MTV 90s
+http://x.bloodshot.eu:8080/live/1Awjmuna3j/kTUxKRg7Hw/56287.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3Jhsh1P",MTV 90s
+http://x.bloodshot.eu:8080/live/mariolopesluis01/uqAmoBxh9c/56287.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3Jhsh1P",MTV 90s
+http://x.bloodshot.eu:8080/live/ngwaa6A3bn/KbmQuv9Xm1/56287.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3Jhsh1P",MTV 90s
+http://zeintv.xyz:8080/live/zmohamedkiko/05318453509/251461.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3Jhsh1P",MTV 90s
+http://elit4kiptv.info:8080/gt9TYk1YDv/hrkI6F8oSG/187453
+
 #EXTINF:0 tvg-id="MTV00s.eu" tvg-logo="https://bit.ly/3Jk0f67",MTV 00s
-http://91.146.94.234:10001/play/a03k
+http://x.bloodshot.eu:8080/live/1Awjmuna3j/kTUxKRg7Hw/172.ts
 #EXTINF:0 tvg-id="MTV00s.eu" tvg-logo="https://bit.ly/3Jk0f67",MTV 00s
-http://195.24.89.82/VH1_SD/index.m3u8
+http://x.bloodshot.eu:8080/live/mariolopesluis01/uqAmoBxh9c/172.ts
+#EXTINF:0 tvg-id="MTV00s.eu" tvg-logo="https://bit.ly/3Jk0f67",MTV 00s
+http://x.bloodshot.eu:8080/live/ngwaa6A3bn/KbmQuv9Xm1/172.ts
+#EXTINF:0 tvg-id="MTV00s.eu" tvg-logo="https://bit.ly/3Jk0f67",MTV 00s
+http://you10.4youall.xyz:8080/jVBXL8syU5/72CmFyxaFm/172
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZtR4pk",AXSTVᴴᴰ
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/91760.ts
