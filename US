@@ -159,5 +159,8 @@ https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/1920x1080
 #EXTINF:-1 tvg-id="https://bit.ly/3eLsHkz",myTV San Antonio TX (KCWX-TV)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",FOX Boston 25 (WFXT)
-https://ddh2.webdicdn.lol/ddh2/premium54/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="",AMC (East)
+http://ufospeeds.com:2095/live/86156491107/6956424474/24685.ts
+
+#EXTINF:-1 tvg-id="",AMC+
+http://proiptvdigic.com:8080/live/andres269t3/jgc3eD8qCQq6/220094.ts
