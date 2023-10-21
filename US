@@ -1,166 +1,155 @@
 #EXTM3U
-
-#EXTINF:0 tvg-logo="https://bit.ly/3ZoIqIE",WTXLDT (ABC27 | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/chunklist_w1545444261_tkd293emF0b2tlbmhhc2g9elNqUjJOVEtQanRtOW1GV3Z1djB0aWcxa0JJZXlUekFiSGZTLWNNMjV4VT0=.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3ZoIqIE",WTXLDT (ABC27 | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/chunklist_w721965032_tkd293emF0b2tlbmhhc2g9elNqUjJOVEtQanRtOW1GV3Z1djB0aWcxa0JJZXlUekFiSGZTLWNNMjV4VT0=.m3u8
-#EXTINF:0 tvg-logo="xxx",WABC
+#EXTINF:30,WTXLDT (ABC27 | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/chunklist_w1921721937_tkd293emF0b2tlbmhhc2g9Ul9TbkdqN1lfRThoeDlHamhkam5jUWQtMGtCM3hvdWZyaWdxeWhSTGVJVT0=.m3u8
+#EXTINF:0,WABC
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/173034.ts
-
-#EXTINF:0 tvg-logo="https://bit.ly/3Jk5K4o",WCTVDT (CBS | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/chunklist_w2083086536_tkd293emF0b2tlbmhhc2g9NGZza3V2NGdCYjdtRWprUDhTblpUSDJST1pIczdxZmY1a2ZaRG9XVFg3ST0=.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3Jk5K4o",WCTVDT (CBS | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/chunklist_w958878912_tkd293emF0b2tlbmhhc2g9NGZza3V2NGdCYjdtRWprUDhTblpUSDJST1pIczdxZmY1a2ZaRG9XVFg3ST0=.m3u8
-#EXTINF:0 tvg-logo="xxx",WCBS
+#EXTINF:0,WCTVDT (CBS | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/chunklist_w1959274588_tkd293emF0b2tlbmhhc2g9VWlKbXJ0ek9YT01DSmdnSld0Z0dId0pqMEFUU0dZd0doT3lJaTFBVXJSRT0=.m3u8
+#EXTINF:0,WCBS
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/173249.ts
-
-#EXTINF:0 tvg-logo="https://bit.ly/3ZshFCZ",WTWCDT2 (FOX49 | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/chunklist_w93603662_tkd293emF0b2tlbmhhc2g9U2ZQVTQzX0U3ZmlENFQ4a3JhWTB3WXpTZUtfREd2d1I2bjFQT0pvMkp0dz0=.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3ZshFCZ",WTWCDT2 (FOX49 | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/chunklist_w1589806558_tkd293emF0b2tlbmhhc2g9U2ZQVTQzX0U3ZmlENFQ4a3JhWTB3WXpTZUtfREd2d1I2bjFQT0pvMkp0dz0=.m3u8
-#EXTINF:0 tvg-logo="xxx",WNYW
+#EXTINF:0,WTWCDT2 (FOX49 | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/chunklist_w994628788_tkd293emF0b2tlbmhhc2g9bTZVaTBGN29BMzB4Mmo2bGItNVdyRk1HdGp0VnpuWEwwclE4RHdpd005TT0=.m3u8
+#EXTINF:0,WNYW
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/173728.ts
-
-#EXTINF:0 tvg-logo="https://bit.ly/3yfYCjl",WTWCDT (NBC40 | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/chunklist_w301850209_tkd293emF0b2tlbmhhc2g9eVZkQ3dnQXFKR2p2RHlKNFFuN1RwN1Z0YzRBcGNVcjZHb3laRE56UzZ2Yz0=.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3yfYCjl",WTWCDT (NBC40 | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/chunklist_w586369208_tkd293emF0b2tlbmhhc2g9eVZkQ3dnQXFKR2p2RHlKNFFuN1RwN1Z0YzRBcGNVcjZHb3laRE56UzZ2Yz0=.m3u8
-#EXTINF:0 tvg-logo="xxx",WNBC
+#EXTINF:0,WTWCDT (NBC40 | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/chunklist_w1295366665_tkd293emF0b2tlbmhhc2g9QVFWbG1aNk5ZbHJSVi15enNQYW5qWHF0dElWa2lOYmUtUkJTMEpxaU5Ubz0=.m3u8
+#EXTINF:0,WNBC
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/174038.ts
-
-#EXTINF:0 tvg-logo="https://bit.ly/3KXhLOG",WFSUDT (PBS | Tallahassee)
+#EXTINF:0,WFSUDT (PBS | Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8?wowzatokenhash=xx3SA2Y7Sh1WvOW3pVcSRTvYLRZCU33UwKQc11IfAsU=
-
-#EXTINF:0 tvg-logo="https://bit.ly/3ZISRq4",WFSUDT3 (Create | Tallahassee)
+#EXTINF:0,WFSUDT3 (Create | Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/playlist.m3u8?wowzatokenhash=OgvEe-tPoGA_k1jK9clCst9keCrKR59dpv7mLcJvUaY=
-
-#EXTINF:0 tvg-logo="https://bit.ly/3ZGnn4b",WTWCDT3 (CHARGE!)
-https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/chunklist_w1554774000_tkd293emF0b2tlbmhhc2g9a2hvdkpnSEZlVDNlQldPZG5wdHJQSG4xNVQ1WFlfbHBUX2VyZXc2ZzdQQT0=.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3ZGnn4b",WTWCDT3 (CHARGE!)
-https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/chunklist_w221894161_tkd293emF0b2tlbmhhc2g9a2hvdkpnSEZlVDNlQldPZG5wdHJQSG4xNVQ1WFlfbHBUX2VyZXc2ZzdQQT0=.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/3JjkhgV",WTLHDT (Heroes & Icons | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/HI.stream/chunklist_w2103849754_tkd293emF0b2tlbmhhc2g9REpHOG5lanVlblk1WUp3NmFfMUVkX1JSejhnRGx5Nm9UNFk4SHdpN2IzQT0=.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3JjkhgV",WTLHDT (Heroes & Icons | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/HI.stream/chunklist_w1821704614_tkd293emF0b2tlbmhhc2g9REpHOG5lanVlblk1WUp3NmFfMUVkX1JSejhnRGx5Nm9UNFk4SHdpN2IzQT0=.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/3Nnhpyx",WTLHDT2 (The CW | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/chunklist_w241639786_tkd293emF0b2tlbmhhc2g9MnhsTy1FUXd1Q2FqSWZsb3RmMFloZVhRM3hDZVRrZUxYTkZ4SWZ1T3dpbz0=.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3Nnhpyx",WTLHDT2 (The CW | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/chunklist_w1156929835_tkd293emF0b2tlbmhhc2g9MnhsTy1FUXd1Q2FqSWZsb3RmMFloZVhRM3hDZVRrZUxYTkZ4SWZ1T3dpbz0=.m3u8
-#EXTINF:0 tvg-logo="xxx",WPIX
-http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/800469.ts
-
-
-#EXTINF:-1 tvg-id="https://bit.ly/3spzqnP",WGNDT (WGN)
+#EXTINF:0,WTWCDT3 (CHARGE!)
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/media_w1006656893_tkd293emF0b2tlbmhhc2g9azNhUkRDQ0lXZlk4bW9PTEFVeHByMjVPT080Y0VpSHR6cXVBdVhEWEpITT0=_2104.ts
+#EXTINF:0,WTLHDT (Heroes & Icons | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/HI.stream/chunklist_w1683605866_tkd293emF0b2tlbmhhc2g9akVuQnJ6b2ExQWJfVlp3dERaN1V6NmV3ejZxTzJPWjg2WExoUjBTNkFjND0=.m3u8
+#EXTINF:0,WTLHDT2 (The CW | Tallahassee)
+https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8?wowzatokenhash=tdtA-S9hkfBU7WzK7_TUCWqpmkAAKHlaEVkuldF7ku8=
+#EXTINF:0,WPIX (PIX11 | New York)
+ttp://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/800469.ts
+#EXTINF:0,WGNDT (WGN)
 https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
-
-#EXTINF:-1 tvg-id="xxx",WION
+#EXTINF:0,WGNDT (WGN)
+http://ufospeeds.com:2095/live/247Vod/6sBfMnV9Nkxz/138.ts
+#EXTINF:0,WION
 https://d7x8z4yuq42qn.cloudfront.net:443/index_7.m3u8
-
-[#EXTINF:0 tvg-logo="https://bit.ly/3IXaXhb",WPIX (PIX11 | New York)]
-xxx
-[#EXTINF:-1 tvg-id="https://bit.ly/40hc2I7",KTLADT (The CW | Los Angeles)]
-xxx
-
-[#EXTINF:0 tvg-logo="https://bit.ly/2OCGE1p",WWOR (my9)]
-xxx
-
-#EXTINF:0 tvg-logo="https://bit.ly/3SRkpHL",TNT (East)
+#EXTINF:0,[#EXTINF:-1 tvg-id="https://bit.ly/40hc2I7",KTLADT (The CW | Los Angeles)]
+https://rentry.co/q3v8c/[
+#EXTINF:0,xxx
+https://rentry.co/q3v8c/xxx
+#EXTINF:0,[#EXTINF:0 tvg-logo="https://bit.ly/2OCGE1p",WWOR (my9)]
+https://rentry.co/q3v8c/[
+#EXTINF:0,xxx
+https://rentry.co/q3v8c/xxx
+#EXTINF:0,VH1 (East)
+http://ufospeeds.com:2095/live/247Vod/6sBfMnV9Nkxz/133.ts
+#EXTINF:0,TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3SRkpHL",TNT (West)
+#EXTINF:0,TNT (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/3eeWcLs",TBS (East)
+#EXTINF:0,TBS (East)
+http://ufospeeds.com:2095/live/247Vod/6sBfMnV9Nkxz/123.ts
+#EXTINF:0,TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3eeWcLs",TBS (West)
+#EXTINF:0,TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/3CnrYy5",TCM (East)
+#EXTINF:0,TCM (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3CnrYy5",TCM (West)
+#EXTINF:0,TCM (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/3CirKbi",BBC America 
+#EXTINF:0,BBC America 
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3CirKbi",BBC America 
+#EXTINF:0,BBC America 
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/profile_0/chunklist.m3u8
-
-[#EXTINF:0 tvg-logo="https://bit.ly/3SSVQtQ",AMC]
-XXX
-
-#EXTINF:0 tvg-logo="https://bit.ly/3SWsmet",Sundance TV
+#EXTINF:0,[#EXTINF:0 tvg-logo="https://bit.ly/3SSVQtQ",AMC]
+https://rentry.co/q3v8c/[
+#EXTINF:0,XXX
+https://rentry.co/q3v8c/XXX
+#EXTINF:0,Sundance TV
 https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/3JgHOPA",IFC
+#EXTINF:0,IFC
 https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
-
 #EXTINF:0,HBO Comedy
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220498
-#EXTINF:0 tvg-logo="https://bit.ly/3mr92Kh",HBO (East)
+#EXTINF:0,HBO (East)
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220495
-#EXTINF:0 tvg-logo="https://bit.ly/3mr92Kh",HBO (West)
+#EXTINF:0,HBO (West)
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220496
 #EXTINF:0,HBO Family (East)
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220572
 #EXTINF:0,HBO Signature (East)
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220501
-#EXTINF:0 tvg-logo="https://bit.ly/3ZFwGBt",HBO Zone (East)
+#EXTINF:0,HBO Zone (East)
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220500
-#EXTINF:0 tvg-logo="https://bit.ly/4242BNR",HBO 2
+#EXTINF:0,HBO 2
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220497
-
-#EXTINF:0 tvg-logo="https://bit.ly/3L9Nn3I",Cinemax (East)
+#EXTINF:0,Cinemax (East)
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220468
-[#EXTINF:0 tvg-logo="https://bit.ly/3fWIflG",Cinemax (West)]
-xxx
-#EXTINF:0 tvg-logo="https://bit.ly/3JwA1gM",ActionMax
+#EXTINF:0,[#EXTINF:0 tvg-logo="https://bit.ly/3fWIflG",Cinemax (West)]
+https://rentry.co/q3v8c/[
+#EXTINF:0,xxx
+https://rentry.co/q3v8c/xxx
+#EXTINF:0,ActionMax
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220467
-
-#EXTINF:0,WTXLDT2 (BOUNCE HD | New York)
+#EXTINF:0,BOUNCE
 http://proiptvdigic.com:8080/andres269t3/jgc3eD8qCQq6/220133
-
-[#EXTINF:0 tvg-logo="https://bit.ly/3ywT440",BET Her]
-xxx
-[#EXTINF:0 tvg-logo="https://bit.ly/3L2YCuF",BET (West)]
-xxx
-[#EXTINF:0 tvg-logo="https://bit.ly/3Zv14yC",VH1]
-XXX
-
-#EXTINF:0 tvg-logo="https://bit.ly/3yk5wnE",WTWCDT3 (CHARGE!)
+#EXTINF:0,BOUNCE
+http://ufospeeds.com:2095/live/247Vod/6sBfMnV9Nkxz/20.ts
+#EXTINF:0,[#EXTINF:0 tvg-logo="https://bit.ly/3ywT440",BET Her]
+https://rentry.co/q3v8c/[
+#EXTINF:0,xxx
+https://rentry.co/q3v8c/xxx
+#EXTINF:0,[#EXTINF:0 tvg-logo="https://bit.ly/3L2YCuF",BET (West)]
+https://rentry.co/q3v8c/[
+#EXTINF:0,xxx
+https://rentry.co/q3v8c/xxx
+#EXTINF:0,[#EXTINF:0 tvg-logo="https://bit.ly/3Zv14yC",VH1]
+https://rentry.co/q3v8c/[
+#EXTINF:0,XXX
+https://rentry.co/q3v8c/XXX
+#EXTINF:0,WTWCDT3 (CHARGE!)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3yk5wnE",WTWCDT3 (CHARGE!)
+#EXTINF:0,WTWCDT3 (CHARGE!)
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
-[#EXTINF:0 tvg-logo="https://bit.ly/41TJDZW",Ion Television]
-xxx
-
-#EXTINF:0 tvg-logo="https://bit.ly/3F2pbME",Ion Mystery
+#EXTINF:0,[#EXTINF:0 tvg-logo="https://bit.ly/41TJDZW",Ion Television]
+https://rentry.co/q3v8c/[
+#EXTINF:0,xxx
+https://rentry.co/q3v8c/xxx
+#EXTINF:0,Ion Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/3BbrSsP",REELZ
+#EXTINF:0,REELZ
 https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/profile_0/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://bit.ly/3CvyPVV",REELZ
+#EXTINF:0,REELZ
 https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/profile_0/chunklist.m3u8
-
-[#EXTINF:0 tvg-logo="https://bit.ly/40YNWm5",Lifetime]
-XXX
-#EXTINF:0 tvg-logo="https://bit.ly/3o33JSj",Télé Québec HD
+#EXTINF:0,[#EXTINF:0 tvg-logo="https://bit.ly/40YNWm5",Lifetime]
+https://rentry.co/q3v8c/[
+#EXTINF:0,XXX
+https://rentry.co/q3v8c/XXX
+#EXTINF:0,T l  Qu bec HD
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-[#EXTINF:0 tvg-logo="https://bit.ly/3GAGWna",Heartland]
-XXX
-#EXTINF:0 tvg-logo="https://bit.ly/3o3Aa2O",Retro TV
+#EXTINF:0,[#EXTINF:0 tvg-logo="https://bit.ly/3GAGWna",Heartland]
+https://rentry.co/q3v8c/[
+#EXTINF:0,XXX
+https://rentry.co/q3v8c/XXX
+#EXTINF:0,Retro TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_0/chunklist.m3u8
-#EXTINF:0 tvg-logo="XXX",BBC Drama
+#EXTINF:0,BBC Drama
 https://bbceu-bbcdrama-2-it.samsung.wurl.tv/3000.m3u8
-#EXTINF:0 tvg-logo="XXX",TEST
+#EXTINF:0,TEST
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/1920x1080_4870800/index.m3u8
-
-#EXTINF:-1 tvg-id="https://bit.ly/3eLsHkz",myTV San Antonio TX (KCWX-TV)
+#EXTINF:0,myTV San Antonio TX (KCWX-TV)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="",AMC (East)
+#EXTINF:0,AMC (East)
 http://ufospeeds.com:2095/live/86156491107/6956424474/24685.ts
-
-#EXTINF:-1 tvg-id="",AMC+
+#EXTINF:0,AMC+
 http://proiptvdigic.com:8080/live/andres269t3/jgc3eD8qCQq6/220094.ts
+#EXTINF:0,USA (East)
+http://ufospeeds.com:2095/live/247Vod/6sBfMnV9Nkxz/130.ts
+#EXTINF:0,USA (West)
+http://ufospeeds.com:2095/live/247Vod/6sBfMnV9Nkxz/131.ts
+#EXTINF:0,FX
+http://ufospeeds.com:2095/live/247Vod/6sBfMnV9Nkxz/57.ts
+#EXTINF:0,FXX
+http://ufospeeds.com:2095/live/247Vod/6sBfMnV9Nkxz/59.ts
+#EXTINF:0,FXM
+http://ufospeeds.com:2095/live/247Vod/6sBfMnV9Nkxz/58.ts
