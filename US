@@ -2,46 +2,371 @@
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZoIqIE",WTXLDT (ABC27 | Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/chunklist_w1921721937_tkd293emF0b2tlbmhhc2g9Ul9TbkdqN1lfRThoeDlHamhkam5jUWQtMGtCM3hvdWZyaWdxeWhSTGVJVT0=.m3u8
-#EXTINF:0 tvg-logo="xxx",WABC
+#EXTINF:0 tvg-logo="https://rb.gy/6g5v8",WABC (ABC7 | New York)
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/173034.ts
-#EXTINF:0 tvg-logo="xxx",WABC
+#EXTINF:0 tvg-logo="https://rb.gy/6g5v8",WABC (ABC7 | New York)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173034.ts
-#EXTINF:0 tvg-logo="xxx",WLS-TV
+#EXTINF:0 tvg-logo="https://rb.gy/6g5v8",WLS-TV (ABC7 | Chicago)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172965.ts
-#EXTINF:0 tvg-logo="xxx",KABC
+#EXTINF:0 tvg-logo="https://rb.gy/6g5v8",KTVX (ABC4 | Salt Lake)
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173099.ts
+#EXTINF:0 tvg-logo="https://rb.gy/6g5v8",KABC (ABC7 | Los Angeles)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172930.ts
+
+#EXTINF:0,WDHN
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172915.ts
+#EXTINF:0,WAAY
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172916.ts
+#EXTINF:0,WNCF
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172917.ts
+#EXTINF:0,WABM
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172914.ts
+#EXTINF:0,KYUR
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172919.ts
+#EXTINF:0,KGUN
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172922.ts
+#EXTINF:0,KNXV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172921.ts
+#EXTINF:0,KATV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172926.ts
+#EXTINF:0,KHBS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172924.ts
+#EXTINF:0,KESQ
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172931.ts
+#EXTINF:0,KEYT
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172935.ts
+#EXTINF:0,KABC
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172930.ts
+#EXTINF:0,KGO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172934.ts
+#EXTINF:0,KXTV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172932.ts
+#EXTINF:0,KGTV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172933.ts
+#EXTINF:0,KERO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172928.ts
+#EXTINF:0,KMGH
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172937.ts
+#EXTINF:0,KJCT
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172938.ts
+#EXTINF:0,KRDO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/980707.ts
+#EXTINF:0,WJLA
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172942.ts
+#EXTINF:0,WEAR
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172950.ts
+#EXTINF:0,WZVN
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172947.ts
+#EXTINF:0,WFTV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172948.ts
+#EXTINF:0,WPLG
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172946.ts
+#EXTINF:0,WMBB
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172949.ts
+#EXTINF:0,WCJB
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172944.ts
+#EXTINF:0,WJXX
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172944.ts
+#EXTINF:0,WPBF
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172954.ts
+#EXTINF:0,WTXL
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172952.ts
+#EXTINF:0,WFTS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172953.ts
+#EXTINF:0,WSB
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172956.ts
+#EXTINF:0,WJBF
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172957.ts
+#EXTINF:0,WTVM
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172958.ts
+#EXTINF:0,WJCL
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172959.ts
+#EXTINF:0,KITV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172961.ts
+#EXTINF:0,KIVI
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172963.ts
+#EXTINF:0,WSIL
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172966.ts
+#EXTINF:0,WLS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172965.ts
+#EXTINF:0,WTVO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172967.ts
+#EXTINF:0,WICS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172968.ts
+#EXTINF:0,WRTV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172971.ts
+#EXTINF:0,WPTA
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/730911.ts
+#EXTINF:0,WEHT
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172970.ts
+#EXTINF:0,WBND
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172972.ts
+#EXTINF:0,WOI
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172975.ts
+#EXTINF:0,KCRG
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172974.ts
+#EXTINF:0,KCAU
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172976.ts
+#EXTINF:0,KAKE
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172979.ts
+#EXTINF:0,KTKA
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172978.ts
+#EXTINF:0,WHAS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172983.ts
+#EXTINF:0,WBKO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172981.ts
+#EXTINF:0,WBRZ
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172986.ts
+#EXTINF:0,KATC
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172987.ts
+#EXTINF:0,KTBS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172988.ts
+#EXTINF:0,WGNO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/735302.ts
+#EXTINF:0,KLAX
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172985.ts
+#EXTINF:0,WMTW
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172990.ts
+#EXTINF:0,WMAR
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172992.ts
+#EXTINF:0,WCVB
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172994.ts
+#EXTINF:0,WOTV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172996.ts
+#EXTINF:0,WXYZ
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172997.ts
+#EXTINF:0,WJRT
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172998.ts
+#EXTINF:0,WZZM
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/172999.ts
+#EXTINF:0,WLAJ
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173000.ts
+#EXTINF:0,KSTP
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173003.ts
+#EXTINF:0,KAAL
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173004.ts
+#EXTINF:0,WDIO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173002.ts
+#EXTINF:0,WTOK
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173008.ts
+#EXTINF:0,WLOX
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173006.ts
+#EXTINF:0,WAPT
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173007.ts
+#EXTINF:0,KMBC
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173012.ts
+#EXTINF:0,KODE
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173011.ts
+#EXTINF:0,KMIZ
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173010.ts
+#EXTINF:0,KSPR
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173013.ts
+#EXTINF:0,KDNL
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173014.ts
+#EXTINF:0,KFBB
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173016.ts
+#EXTINF:0,KSVI
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173017.ts
+#EXTINF:0,KWYB
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173019.ts
+#EXTINF:0,KTMF
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173018.ts
+#EXTINF:0,KETV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173022.ts
+#EXTINF:0,KLKN
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173021.ts
+#EXTINF:0,KOLO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173025.ts
+#EXTINF:0,KTNV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173024.ts
+#EXTINF:0,WMUR
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173027.ts
+#EXTINF:0,KOAT
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173029.ts
+#EXTINF:0,WKBW
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173033.ts
+#EXTINF:0,WABC
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173034.ts
+#EXTINF:0,WSYR
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173036.ts
+#EXTINF:0,WTEN
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173031.ts
+#EXTINF:0,WHAM
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173035.ts
+#EXTINF:0,WUTR
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173037.ts
+#EXTINF:0,WIVT
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173032.ts
+#EXTINF:0,WSOC
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173040.ts
+#EXTINF:0,WTVD
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173042.ts
+#EXTINF:0,WCTI
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173041.ts
+#EXTINF:0,WLOS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173039.ts
+#EXTINF:0,WXLV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173043.ts
+#EXTINF:0,WDAY
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173046.ts
+#EXTINF:0,KBMY
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173045.ts
+#EXTINF:0,WEWS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173049.ts
+#EXTINF:0,WSYX
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173050.ts
+#EXTINF:0,WCPO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173048.ts
+#EXTINF:0,WTVG
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173052.ts
+#EXTINF:0,WKEF
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173051.ts
+#EXTINF:0,WYTV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173053.ts
+#EXTINF:0,KOCO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173056.ts
+#EXTINF:0,KSWO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173055.ts
+#EXTINF:0,KTUL
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173057.ts
+#EXTINF:0,KATU
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173061.ts
+#EXTINF:0,KEZI
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173059.ts
+#EXTINF:0,KDRV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173060.ts
+#EXTINF:0,WTAE
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173067.ts
+#EXTINF:0,WPVI
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173066.ts
+#EXTINF:0,WNEP
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/845455.ts
+#EXTINF:0,WATM
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173063.ts
+#EXTINF:0,WJET
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173064.ts
+#EXTINF:0,WHTM
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173065.ts
+#EXTINF:0,WLNE
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173069.ts
+#EXTINF:0,WPDE
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173073.ts
+#EXTINF:0,WOLO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173072.ts
+#EXTINF:0,KOTA
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173075.ts
+#EXTINF:0,KSFY
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173076.ts
+#EXTINF:0,WKRN
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173081.ts
+#EXTINF:0,WBBJ
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173079.ts
+#EXTINF:0,WTVC
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173079.ts
+#EXTINF:0,WATN
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173080.ts
+#EXTINF:0,KMID
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173092.ts
+#EXTINF:0,KIII
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173087.ts
+#EXTINF:0,KRGV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173097.ts
+#EXTINF:0,KVII
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173084.ts
+#EXTINF:0,KVIA
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173089.ts
+#EXTINF:0,KLTV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173094.ts
+#EXTINF:0,WFAA
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173088.ts
+#EXTINF:0,KTXS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173083.ts
+#EXTINF:0,KBMT
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173086.ts
+#EXTINF:0,KSAT
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173093.ts
+#EXTINF:0,KTRK
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173090.ts
+#EXTINF:0,KVUE
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173085.ts
+#EXTINF:0,KAVU
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173095.ts
+#EXTINF:0,KXXV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173096.ts
+#EXTINF:0,KQTV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173091.ts
+#EXTINF:0,KTVX
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173099.ts
+#EXTINF:0,WVNY
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173101.ts
+#EXTINF:0,WRIC
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173107.ts
+#EXTINF:0,WHSV
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173104.ts
+#EXTINF:0,WSET
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173105.ts
+#EXTINF:0,WVEC
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173106.ts
+#EXTINF:0,WVAW
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173103.ts
+#EXTINF:0,KOMO
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173109.ts
+#EXTINF:0,KXLY
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173110.ts
+#EXTINF:0,KVEW
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173111.ts
+WEST%#EXTINF:0,WCHS
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173113.ts
+#EXTINF:0,WBAY
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173116.ts
+#EXTINF:0,WAOW
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173120.ts
+#EXTINF:0,WISN
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173119.ts
+#EXTINF:0,WQOW
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173115.ts
+#EXTINF:0,WXOW
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173117.ts
+#EXTINF:0,WKOW
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173118.ts
 
 #EXTINF:0 tvg-logo="https://bit.ly/3Jk5K4o",WCTVDT (CBS | Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/chunklist_w1959274588_tkd293emF0b2tlbmhhc2g9VWlKbXJ0ek9YT01DSmdnSld0Z0dId0pqMEFUU0dZd0doT3lJaTFBVXJSRT0=.m3u8
-#EXTINF:0 tvg-logo="xxx",WCBS
+#EXTINF:0 tvg-logo="https://rb.gy/cyqoi",WCBS (CBS2 | New York)
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/173249.ts
-#EXTINF:0 tvg-logo="xxx",WCBS
+#EXTINF:0 tvg-logo="https://rb.gy/cyqoi",WCBS (CBS2 | New York)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173249.ts
-#EXTINF:0 tvg-logo="xxx",WBBM
+#EXTINF:0 tvg-logo="https://shorturl.at/fipu6",WBBM (CBS2 | Chicago) 
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173176.ts
-#EXTINF:0 tvg-logo="xxx",KCAL
+#EXTINF:0 tvg-logo="https://shorturl.at/fipu6",KUTV (CBS2 | Salt Lake) 
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173323.ts
+#EXTINF:0 tvg-logo="https://shorturl.at/chHJ4",KCAL  (CBS | Los Angeles)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173138.ts
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZshFCZ",WTWCDT2 (FOX49 | Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/chunklist_w994628788_tkd293emF0b2tlbmhhc2g9bTZVaTBGN29BMzB4Mmo2bGItNVdyRk1HdGp0VnpuWEwwclE4RHdpd005TT0=.m3u8
-#EXTINF:0 tvg-logo="xxx",WNYW
+#EXTINF:0 tvg-logo="https://shorturl.at/dqswF",WNYW (FOX5 | New York)
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/173728.ts
-#EXTINF:0 tvg-logo="xxx",WNYW
+#EXTINF:0 tvg-logo="https://shorturl.at/dqswF",WNYW (FOX5 | New York)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173728.ts
-#EXTINF:0 tvg-logo="xxx",WLFD
+#EXTINF:0 tvg-logo="https://shorturl.at/djop0",WFLD (FOX32 | Chicago)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173653.ts
-#EXTINF:0 tvg-logo="xxx",KTTV
+#EXTINF:0 tvg-logo="https://shorturl.at/lsRY8",KSTU (FOX13 | Salt Lake)
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173799.ts
+#EXTINF:0 tvg-logo="https://shorturl.at/lsRY8",KTTV (FOX11 | Los Angeles)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173612.ts
 
 #EXTINF:0 tvg-logo="https://bit.ly/3yfYCjl",WTWCDT (NBC40 | Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/chunklist_w1295366665_tkd293emF0b2tlbmhhc2g9QVFWbG1aNk5ZbHJSVi15enNQYW5qWHF0dElWa2lOYmUtUkJTMEpxaU5Ubz0=.m3u8
-#EXTINF:0 tvg-logo="xxx",WNBC
+#EXTINF:0 tvg-logo="https://t.ly/3eK4-",WNBC (NBC6 | New York)
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/174038.ts
-#EXTINF:0 tvg-logo="xxx",WNBC
+#EXTINF:0 tvg-logo="https://t.ly/3eK4-",WNBC (NBC6 | New York)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/174038.ts
-#EXTINF:0 tvg-logo="xxx",WLFD
+#EXTINF:0 tvg-logo="https://t.ly/PfE3v",WMAQ-TV (NBC5 | Chicago)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173957.ts
-#EXTINF:0 tvg-logo="xxx",KNBC
+#EXTINF:0 tvg-logo="https://t.ly/PfE3v",KSL (NBC5 | Salt Lake)
+http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/174114.ts
+#EXTINF:0 tvg-logo="https://t.ly/OOrjy",KNBC (NBC4 | Los Angeles)
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/173924.ts
 
 #EXTINF:0 tvg-logo="https://bit.ly/3KXhLOG",WFSUDT (PBS | Tallahassee)
@@ -50,6 +375,8 @@ https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8?wowzatok
 #EXTINF:0 tvg-logo="https://bit.ly/3ZISRq4",WFSUDT3 (Create | Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/playlist.m3u8?wowzatokenhash=OgvEe-tPoGA_k1jK9clCst9keCrKR59dpv7mLcJvUaY=
 
+#EXTINF:0 tvg-logo="https://bit.ly/3ZGnn4b",CHARGE!
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/chunklist_w1342902155_tkd293emF0b2tlbmhhc2g9azNhUkRDQ0lXZlk4bW9PTEFVeHByMjVPT080Y0VpSHR6cXVBdVhEWEpITT0=.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3ZGnn4b",CHARGE!
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/789119.ts
 
