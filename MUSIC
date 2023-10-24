@@ -87,10 +87,10 @@ http://elit4kiptv.info:8080/gt9TYk1YDv/hrkI6F8oSG/187446
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC (East)
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/168736.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC (East)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28271
 #EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC (West)
 http://ufospeeds.com:2095/live/86156491107/6956424474/89.ts
-#EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC (East)
-http://ufospeeds.com:2095/live/86156491107/6956424474/32731.ts
 
 #EXTINF:-1,Emotion
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/889015.ts
@@ -219,7 +219,7 @@ http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/506496.ts
 #EXTINF:0 tvg-logo="xxx",RFM TV
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/551807.ts
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3MkCGK1",CMC (California Music Channel)
+#EXTINF:-1 tvg-logo="https://bit.ly/3MkCGK1",CMC
 https://cmc-ono.amagi.tv/playlist1080_p.m3u8
 
 [#EXTINF:0 tvg-logo="https://bit.ly/3YTSFUa",Trace Hits]
