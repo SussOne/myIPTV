@@ -267,7 +267,7 @@ http://65.108.62.57:8080/live/greektv1.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 tvg-name="hightv"tvg-id=""tvg-logo="https://i.imgur.com/vDcy0RR.png"group-title="",High TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-name="hightv"tvg-id=""tvg-logo="https://gd8jff75ss26rgja.myfritz.net:43742/nas/filelink.lua?id=3f0905eab9478742"group-title="",High TV
+#EXTINF:-1 tvg-name="hightv"tvg-id=""tvg-logo="https://shorturl.at/dpwO4"group-title="",High TV
 https://live.streams.ovh:443/hightv/hightv/chunklist_w1734614625.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/w4lIGYn.png"group-title="",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
@@ -410,13 +410,12 @@ https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
-http://iptvprime.pro:8080/live/eyvnc6mn/8bt7ENurkZvX/281603.ts
+http://aanax.com:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/174207
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
-http://iptvprime.pro:8080/live/eyvnc6mn/8bt7ENurkZvX/281737.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
-http://obshd.tv:25461/live/Exchcyprusiptv/cDbcUX4ehD/54132.ts
-#EXTINF:0,Novacinema 3
-http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534443.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",G-IPTV
+#EXTINF:0,SEXY HOT
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38280
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",5K
 http://tv.dominiotv.xyz:25461/live/Sanchez_2023nj/68976098/65666.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3V4Yuh4"group-title="",ABC-TV (Paraguayan TV channel)
@@ -472,7 +471,424 @@ http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/1137584.ts
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534476.ts
 #EXTINF:0,Novacinema 2
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534444.ts
+#EXTINF:0,Novacinema 3
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534443.ts
 #EXTINF:0,Novacinema 4
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534442.ts
-#EXTINF:0,Novalife
+#EXTINF:0,Novalifε
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/534441.ts
+
+#EXTINF:-1 ,GE: 1 TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/165010
+#EXTINF:-1 ,GE: Ajara TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280179
+#EXTINF:-1 ,GE: Formula
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/165005
+#EXTINF:-1 ,GE: imedi TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/164996
+#EXTINF:-1 ,GE: Mtavari Arkhi
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/286536
+#EXTINF:-1 ,GE: Palitra News
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/164993
+#EXTINF:-1 ,GE: Rustavi 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280205
+#EXTINF:-1 ,GR: 34100 TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/286582
+#EXTINF:-1 ,GR: 4E
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2663
+#EXTINF:-1 ,GR: Acheloos TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/7137
+#EXTINF:-1 ,GR: Action 24
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1971
+#EXTINF:-1 ,GR: AEK FC TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300040
+#EXTINF:-1 ,GR: Alert TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/46
+#EXTINF:-1 ,GR: Alpha
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/12
+#EXTINF:-1 ,GR: Ant1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/132
+#EXTINF:-1 ,GR: Ant1+
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300041
+#EXTINF:-1 ,GR: Attica TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/45216
+#EXTINF:-1 ,GR: Baby TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/79566
+#EXTINF:-1 ,GR: Baraza Music TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146634
+#EXTINF:-1 ,GR: BBC Earth
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/95377
+#EXTINF:-1 ,GR: Best TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/24027
+#EXTINF:-1 ,GR: Boyah TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/299221
+#EXTINF:-1 ,GR: Cablenet Sport 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298893
+#EXTINF:-1 ,GR: Cablenet Sport 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298892
+#EXTINF:-1 ,GR: Canali
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300043
+#EXTINF:-1 ,GR: Cannali Music
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/95382
+#EXTINF:-1 ,GR: Cartoonito
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300042
+#EXTINF:-1 ,GR: CBS Reality
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/12701
+#EXTINF:-1 ,GR: Choice
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/286594
+#EXTINF:-1 ,GR: Cinemax
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/282774
+#EXTINF:-1 ,GR: Cinemax 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291103
+#EXTINF:-1 ,GR: Corfu Channel
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/45181
+#EXTINF:-1 ,GR: Cosmote Cinema 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291104
+#EXTINF:-1 ,GR: Cosmote Cinema 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291105
+#EXTINF:-1 ,GR: Cosmote Cinema 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291106
+#EXTINF:-1 ,GR: Cosmote Cinema Kids
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300045
+#EXTINF:-1 ,GR: Cosmote Highlights
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300046
+#EXTINF:-1 ,GR: Cosmote History
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/45229
+#EXTINF:-1 ,GR: Cosmote Series
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/148101
+#EXTINF:-1 ,GR: Cosmote Series Marathon
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/200985
+#EXTINF:-1 ,GR: Cosmote Sport 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/124
+#EXTINF:-1 ,GR: Cosmote Sport 10
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300048
+#EXTINF:-1 ,GR: Cosmote Sport 11
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300049
+#EXTINF:-1 ,GR: Cosmote Sport 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/18
+#EXTINF:-1 ,GR: Cosmote Sport 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4269
+#EXTINF:-1 ,GR: Cosmote Sport 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/125
+#EXTINF:-1 ,GR: Cosmote Sport 5
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4271
+#EXTINF:-1 ,GR: Cosmote Sport 6
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4272
+#EXTINF:-1 ,GR: Cosmote Sport 7
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/126
+#EXTINF:-1 ,GR: Cosmote Sport 8
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/127
+#EXTINF:-1 ,GR: Cosmote Sport 9
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/121356
+#EXTINF:-1 ,GR: Crime+ Investigation
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291119
+#EXTINF:-1 ,GR: Cytavision Sports 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298887
+#EXTINF:-1 ,GR: Cytavision Sports 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298886
+#EXTINF:-1 ,GR: Cytavision Sports 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298885
+#EXTINF:-1 ,GR: Cytavision Sports 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298888
+#EXTINF:-1 ,GR: Cytavision Sports 5
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300051
+#EXTINF:-1 ,GR: Cytavision Sports 6
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300152
+#EXTINF:-1 ,GR: Cytavision Sports 7
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300052
+#EXTINF:-1 ,GR: Delta TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/14161
+#EXTINF:-1 ,GR: Diavata TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/286596
+#EXTINF:-1 ,GR: Diktyo TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/67240
+#EXTINF:-1 ,GR: Discovery Channel
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/24963
+#EXTINF:-1 ,GR: Discovery Science
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/30109
+#EXTINF:-1 ,GR: Disney Junior
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280275
+#EXTINF:-1 ,GR: Duck TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300055
+#EXTINF:-1 ,GR: E!
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291120
+#EXTINF:-1 ,GR: Ecclesia TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296608
+#EXTINF:-1 ,GR: Egnatia TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/287755
+#EXTINF:-1 ,GR: Ellas TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/284245
+#EXTINF:-1 ,GR: EON Cinebox 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300057
+#EXTINF:-1 ,GR: EON Cinebox 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300058
+#EXTINF:-1 ,GR: EON Cinebox 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300059
+#EXTINF:-1 ,GR: EON Cinebox 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300060
+#EXTINF:-1 ,GR: EON Cinebox 5
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300061
+#EXTINF:-1 ,GR: EON Cinebox VIP1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300062
+#EXTINF:-1 ,GR: Epsilon TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/24007
+#EXTINF:-1 ,GR: ERT 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3
+#EXTINF:-1 ,GR: ERT 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/136
+#EXTINF:-1 ,GR: ERT 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/137
+#EXTINF:-1 ,GR: ERT News
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/295277
+#EXTINF:-1 ,GR: ERT Sports
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11
+#EXTINF:-1 ,GR: ERT Sports 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/276085
+#EXTINF:-1 ,GR: ERT Sports 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/290658
+#EXTINF:-1 ,GR: ERT Sports 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298613
+#EXTINF:-1 ,GR: ERT World
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/9
+#EXTINF:-1 ,GR: euronews
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1967
+#EXTINF:-1 ,GR: EUROSPORT 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/138
+#EXTINF:-1 ,GR: EUROSPORT 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/139
+#EXTINF:-1 ,GR: Food Network
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/12700
+#EXTINF:-1 ,GR: Fox Life
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5241
+#EXTINF:-1 ,GR: Fox music Greece
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300064
+#EXTINF:-1 ,GR: FX
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300063
+#EXTINF:-1 ,GR: Galaxy
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/286598
+#EXTINF:-1 ,GR: Greek TV London
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280276
+#EXTINF:-1 ,GR: Groovy TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300066
+#EXTINF:-1 ,GR: High TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/12671
+#EXTINF:-1 ,GR: IDJ Kids
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300068
+#EXTINF:-1 ,GR: Investigation Discovery
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/151832
+#EXTINF:-1 ,GR: Ionian TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2667
+#EXTINF:-1 ,GR: Kontra
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1966
+#EXTINF:-1 ,GR: Kriti TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/278736
+#EXTINF:-1 ,GR: Mad Greekz
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/163155
+#EXTINF:-1 ,GR: Mad TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1973
+#EXTINF:-1 ,GR: Magic TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296242
+#EXTINF:-1 ,GR: Makedonia TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2673
+#EXTINF:-1 ,GR: Mega TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/13
+#EXTINF:-1 ,GR: Messatida TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296606
+#EXTINF:-1 ,GR: Messinia
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/7156
+#EXTINF:-1 ,GR: Mezzo
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300069
+#EXTINF:-1 ,GR: MGR
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/286605
+#EXTINF:-1 ,GR: Motorvision
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146531
+#EXTINF:-1 ,GR: n Cinema
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298849
+#EXTINF:-1 ,GR: NAT GEO
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4248
+#EXTINF:-1 ,GR: NAT GEO Wild
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291128
+#EXTINF:-1 ,GR: Nautical Channel
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300071
+#EXTINF:-1 ,GR: Nea TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/7158
+#EXTINF:-1 ,GR: NET TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/13554
+#EXTINF:-1 ,GR: NG Radio
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146366
+#EXTINF:-1 ,GR: nickelodeon
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146375
+#EXTINF:-1 ,GR: Notioi TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/47333
+#EXTINF:-1 ,GR: Nova Cinema 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/79551
+#EXTINF:-1 ,GR: Nova Cinema 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/12819
+#EXTINF:-1 ,GR: Nova Cinema 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/74188
+#EXTINF:-1 ,GR: Nova Cinema 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/50470
+#EXTINF:-1 ,GR: Nova Life
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/200541
+#EXTINF:-1 ,GR: Nova Premiere 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/16
+#EXTINF:-1 ,GR: Nova Premiere 10
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146537
+#EXTINF:-1 ,GR: Nova Premiere 11
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/22
+#EXTINF:-1 ,GR: Nova Premiere 12
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/23
+#EXTINF:-1 ,GR: Nova Premiere 13
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/24
+#EXTINF:-1 ,GR: Nova Premiere 14
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5905
+#EXTINF:-1 ,GR: Nova Premiere 15
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/25
+#EXTINF:-1 ,GR: Nova Premiere 16
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/26
+#EXTINF:-1 ,GR: Nova Premiere 17
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/27
+#EXTINF:-1 ,GR: Nova Premiere 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/17
+#EXTINF:-1 ,GR: Nova Premiere 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5901
+#EXTINF:-1 ,GR: Nova Premiere 3D
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300098
+#EXTINF:-1 ,GR: Nova Premiere 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/42973
+#EXTINF:-1 ,GR: Nova Premiere 5
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5902
+#EXTINF:-1 ,GR: Nova Premiere 6 UHD
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/19
+#EXTINF:-1 ,GR: Nova Premiere 7 UHD
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146535
+#EXTINF:-1 ,GR: Nova Premiere 8
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/20
+#EXTINF:-1 ,GR: Nova Premiere 9
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146536
+#EXTINF:-1 ,GR: Nova Premiere Comedy
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/90629
+#EXTINF:-1 ,GR: Nova Premiere Hellenic
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/81460
+#EXTINF:-1 ,GR: Nova Premiere History
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/39
+#EXTINF:-1 ,GR: Nova Premiere Mythology
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/198413
+#EXTINF:-1 ,GR: Nova Premiere Passion
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/266429
+#EXTINF:-1 ,GR: Nova Premiere sci-fi
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/151625
+#EXTINF:-1 ,GR: Nova Premiere Starz
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146538
+#EXTINF:-1 ,GR: Nova Premiere Thriller
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/45
+#EXTINF:-1 ,GR: Nova Premiere Western
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/198414
+#EXTINF:-1 ,GR: Nova Sports 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/12844
+#EXTINF:-1 ,GR: Nova sports 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/12845
+#EXTINF:-1 ,GR: Nova Sports 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/12846
+#EXTINF:-1 ,GR: Nova Sports 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/279631
+#EXTINF:-1 ,GR: Nova Sports 5
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/45242
+#EXTINF:-1 ,GR: Nova Sports 6
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291115
+#EXTINF:-1 ,GR: Nova Sports Extra 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300073
+#EXTINF:-1 ,GR: Nova Sports Extra 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300074
+#EXTINF:-1 ,GR: Nova Sports Extra 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300075
+#EXTINF:-1 ,GR: Nova Sports Extra 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300076
+#EXTINF:-1 ,GR: Nova Sports News
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291111
+#EXTINF:-1 ,GR: Nova Sports Premier League
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298889
+#EXTINF:-1 ,GR: Nova sports Prime
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/291116
+#EXTINF:-1 ,GR: Nova Sports Start
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/295161
+#EXTINF:-1 ,GR: NRG 91
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/12677
+#EXTINF:-1 ,GR: Olympiacos TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300078
+#EXTINF:-1 ,GR: Open Beyond TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1974
+#EXTINF:-1 ,GR: Outdoor Channel
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300079
+#EXTINF:-1 ,GR: Pella
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/299186
+#EXTINF:-1 ,GR: Play TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146364
+#EXTINF:-1 ,GR: PLP
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/27224
+#EXTINF:-1 ,GR: Reload
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/45179
+#EXTINF:-1 ,GR: RIK Sat (Hellenic TV)
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/74158
+#EXTINF:-1 ,GR: Samiaki
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/281674
+#EXTINF:-1 ,GR: Sigma
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2671
+#EXTINF:-1 ,GR: Skai
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2670
+#EXTINF:-1 ,GR: Smile TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/79561
+#EXTINF:-1 ,GR: Sport Plus
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298890
+#EXTINF:-1 ,GR: Star
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2662
+#EXTINF:-1 ,GR: Star Kentrikis
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/295280
+#EXTINF:-1 ,GR: Start TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/295279
+#EXTINF:-1 ,GR: STENT WEB TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300845
+#EXTINF:-1 ,GR: Syros TV1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/7162
+#EXTINF:-1 ,GR: TCM
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300080
+#EXTINF:-1 ,GR: ThrakiNet
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/27226
+#EXTINF:-1 ,GR: Tile Mousiki
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/43486
+#EXTINF:-1 ,GR: TLC
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/79614
+#EXTINF:-1 ,GR: Top TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146371
+#EXTINF:-1 ,GR: TRT
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/158752
+#EXTINF:-1 ,GR: TV 100
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/7165
+#EXTINF:-1 ,GR: TV Creta
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2664
+#EXTINF:-1 ,GR: TV Filopoli
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296611
+#EXTINF:-1 ,GR: TV Notos
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/286621
+#EXTINF:-1 ,GR: Viasat Explore
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/300082
+#EXTINF:-1 ,GR: Viasat History
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4246
+#EXTINF:-1 ,GR: Viasat Nature
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296239
+#EXTINF:-1 ,GR: Village Cinemas
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5220
+#EXTINF:-1 ,GR: Vouli Tileorasi 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/244939
+#EXTINF:-1 ,GR: Vouli TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2669
+#EXTINF:-1 ,GR: Wixlar
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/27227
+#EXTINF:-1 ,GR: Xalastra TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/7169
+#EXTINF:-1 ,GR: Xplore
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146369
+#EXTINF:-1 ,GR: Zougla TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/79619
+#EXTINF:-1 ,GR: Zouzounia TV
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/295283
