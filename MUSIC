@@ -23,6 +23,8 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 
 #EXTINF:0 tvg-id="192tv.nl" tvg-logo="https://bit.ly/3CXmVWi",192 TV
 https://ms7.mx-cd.net/dtv-02/87-308033/192TV.smil/chunklist_w1276310355_b4292608_slNLD.m3u8
+#EXTINF:0 tvg-id="192tv.nl" tvg-logo="https://shorturl.at/fzMN5",192 TV
+https://ms7.mx-cd.net/dtv-02/87-308033/192TV.smil/chunklist_w1276310355_b4292608_slNLD.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/xuqrt", Télé Melody
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/506492.ts
@@ -40,10 +42,18 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:0 tvg-id="" tvg-logo="xxx", SPECIAL BOX
 http://elit4kiptv.info:8080/gt9TYk1YDv/hrkI6F8oSG/248847
 
-[#EXTINF:0 tvg-logo="https://bit.ly/3Lnk11K",That's 60s]
-[#EXTINF:0 tvg-logo="https://bit.ly/403Ysrc",That's 70s]
-[#EXTINF:0 tvg-logo="https://bit.ly/3JgSgoX",That's 80s]
-[#EXTINF:0 tvg-logo="https://bit.ly/3YOWxpg",That's 90s]
+#EXTINF:0 tvg-logo="https://rb.gy/l57x8x",That's 60s
+http://92.114.85.79:8000/play/a0bq
+#EXTINF:0 tvg-logo="https://rb.gy/rdbgz3",That's 70s
+http://92.114.85.81:8000/play/a01l/index.m3u8
+#EXTINF:0 tvg-logo="https://rb.gy/rdbgz3",That's 70s
+http://92.114.85.79:8000/play/a0de
+#EXTINF:0 tvg-logo="https://rb.gy/qn1njy",That's 80s
+http://92.114.85.81:8000/play/a01y/index.m3u8
+#EXTINF:0 tvg-logo="https://rb.gy/qn1njy",That's 80s
+http://92.114.85.79:8000/play/a09z
+#EXTINF:0 tvg-logo="https://rb.gy/bmsbod",That's 90s
+http://92.114.85.79:8000/play/a0dq
 
 #EXTINF:0 tvg-id="" tvg-logo="xxx", Music Choice 90c
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/1014288.ts
@@ -59,11 +69,16 @@ http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/1014276.ts
 #EXTINF:01 tvg-id="Now70s.uk" tvg-logo="https://bit.ly/3L2E45E",NOW 70s
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/164022.ts
 #EXTINF:01 tvg-id="Now70s.uk" tvg-logo="https://bit.ly/3L2E45E",NOW 70s
+https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/playlist/rakutenAA-lightning-now70s-rakuten/playlist.m3u8
+#EXTINF:01 tvg-id="Now70s.uk" tvg-logo="https://bit.ly/3L2E45E",NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
-http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/164012.ts
 https://cpuserver001usa.broadcastcdn.net/KUK-NOW80S/tracks-v1a1/mono.m3u8
+#EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
+http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/164012.ts
+#EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
+https://rakutenaa-lightning-now80s-rakuten-mkrxt.amagi.tv/playlist/rakutenAA-lightning-now80s-rakuten/playlist.m3u8
 #EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
 http://x.bloodshot.eu:8080/live/1Awjmuna3j/kTUxKRg7Hw/56307.ts
 #EXTINF:01 tvg-id="Now80s.uk" tvg-logo="https://bit.ly/3Zo07YE",NOW 80s
@@ -71,6 +86,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK
 http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/163796.ts
+#EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK
+https://rakutenaa-lightning-now90s-rakuten-2968n.amagi.tv/playlist/rakutenAA-lightning-now90s-rakuten/playlist.m3u8
 #EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK
 http://x.bloodshot.eu:8080/live/1Awjmuna3j/kTUxKRg7Hw/56308.ts
 #EXTINF:01 tvg-logo="https://bit.ly/3ZTLFru",NOW ROCK
@@ -85,14 +102,12 @@ http://elit4kiptv.info:8080/gt9TYk1YDv/hrkI6F8oSG/187446
 #EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC (East)
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/168736.ts
 #EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC (East)
-http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/2087
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+#EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC (East)
 #EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC (West)
 http://ufospeeds.com:2095/live/86156491107/6956424474/89.ts
 
-http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/2087
-
-#EXTINF:-1,Emotion
-http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/889015.ts
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
 
 #EXTINF:-1,TVM3ᶠʰᵈ
 https://edge19.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8?spark=aa58f8f8-108f-4de2-8423-dd812b604624&token=
@@ -151,12 +166,17 @@ http://line.rs6ott.com:80/live/b09ae99eb7/1be34650c696/91760.ts
 #EXTINF:0 tvg-logo="https://bit.ly/3elTDaF",AXSTVᴴᴰ
 http://6oclock.xyz:80/live/oVTsSvYjZu/cAXDNm9LY9/25344.ts
 #EXTINF:0 tvg-logo="https://bit.ly/3elTvYJ",AXSTVᴴᴰ
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/62378
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163
+#EXTINF:0 tvg-logo="https://bit.ly/3elTvYJ",AXSTVᴴᴰ
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1189
+#EXTINF:0 tvg-logo="https://bit.ly/3ZtR4pk",AXSTVᴴᴰ
+http://aanax.com:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/15117
+#EXTINF:0 tvg-logo="https://bit.ly/3ZtR4pk",AXSTVᴴᴰ
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146919
 
-
-#EXTINF:0 tvg-logo="https://gd8jff75ss26rgja.myfritz.net:43742/nas/filelink.lua?id=70d1aae83864de95",AXS TV NOW
+#EXTINF:0 tvg-logo="https://shorturl.at/xGIJ3",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://gd8jff75ss26rgja.myfritz.net:43742/nas/filelink.lua?id=70d1aae83864de95",AXS TV NOW
+#EXTINF:0 tvg-logo="https://shorturl.at/mvNQS",AXS TV NOW
 https://stream.ads.ottera.tv/cl/074efba3-fe68-4abb-bc65-89e2896324f0/1920x1080_5924497_0_false.m3u8
 
 #EXTINF:0 tvg-logo="XXX",AMORDISCOS TV
@@ -210,9 +230,7 @@ https://cmc-ono.amagi.tv/playlist1080_p.m3u8
 [#EXTINF:0 tvg-logo="https://bit.ly/3YTSFUa",Trace Hits]
 
 #EXTINF:0 tvg-logo="https://bit.ly/3mUqnLT",Trace Urban
-http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/506495.ts
-#EXTINF:0 tvg-logo="https://bit.ly/3mUqnLT",Trace Vault
-http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/1014269.ts
+https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://rb.gy/3vmov",Magic TV
 http://line.vooiptv.com:80/live/5877ad7be7/21a3256eb45c/164009.ts
@@ -668,8 +686,6 @@ http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
 
 #EXTINF:0,Groovy
 http://bit.ly/2p6JqSo
-
-#EXTINF:0 tvg-logo="https://gd8jff75ss26rgja.myfritz.net:43742/nas/filelink.lua?id=8d7811a2b2f20d40",192 TV
 
 #EXTINF:0 tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png",HQM Remember
 https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/index-f5-v1-a1.m3u8
