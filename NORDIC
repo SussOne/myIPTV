@@ -127,40 +127,49 @@ https://mtvdashliveusp2-a.akamaized.net/live/E39USP/E39USP.isml/E39USP.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJMSG8P.png",Nar-TV
 https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QnJqVAb.png",AlfaTV
-https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/chunklist_b1128000.m3u8?organizationId=4507452&suiteItemId=4515276
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QnJqVAb.png",AlfaTV
-https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QnJqVAb.png",AlfaTV
-https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2QEWscr.png",INEZ
-https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/master.m3u8?organizationId=14520912&suiteItemId=14521292
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2QEWscr.png",INEZ
-https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2QEWscr.png",INEZ
-https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/chunklist_b2628000.m3u8?organizationId=14520912&suiteItemId=14521292
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2QEWscr.png",INEZ
-https://inezsecondary.digitacdn.net/live/_definst_/inez/amlst:inezlive.amlst/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IgK0pJN.png",KotiTV
-https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8?organizationId=83459409&suiteItemId=83459780
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IgK0pJN.png",KotiTV
-https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IgK0pJN.png",KotiTV
-https://kotitv.digitacdn.net/amlst:kotitv.amlst/chunklist_b2628000.m3u8?organizationId=83459409&suiteItemId=83459780
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IgK0pJN.png",KotiTV
-https://kotitv.digitacdn.net/amlst:kotitv.amlst/chunklist_b2628000.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3JnHlLt",NPO1 Extra
-https://epg.pw/stream/a05ef2e176324fb1f5e86eed9c57695f6990b4b420a66d7fa1de9b2ac91fb068.ctv
-#EXTINF:-1 tvg-logo="https://bit.ly/3T6qMXF",NPO2 Extra
-https://epg.pw/stream/2cc9013ab0683e1cc99938ce526c1952149fdbba4e7794e28dbb0db78508018f.ctv
-#EXTINF:-1 tvg-logo="https://bit.ly/3IYS7X1",NPO2
-https://epg.pw/stream/4e58129da4ccb881b7b49248e0624bb039b725ccbc7c6d429d41146c5f40ad54.ctv
-#EXTINF:-1 tvg-logo="https://bit.ly/41SKRET",NPO3
-https://epg.pw/stream/66102ee0e1693cee6cc7bee58f30f8f7e7ecd3ac63f052628f11fc3a42f88f76.ctv
-#EXTINF:-1 tvg-logo="https://bit.ly/3Te8fZL",NPO Politiek en Nieuws
-https://epg.pw/stream/89222400ac57c37bcc90ab21cb727c3f54247836c57870795fdae32ae2ac1e36.ctv
-#EXTINF:-1 tvg-logo="https://bit.ly/3ZuG5vJ",fanpop
-https://epg.pw/stream/c6d8a250e4a9c8cc2805ee9d5e3c5808a0a93b24d45b5e5a89566d2de91357e6.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3IZCX3V",RTLZWEI
-https://epg.pw/stream/3e241412436ec57f86add6df9b707ba1eb48316c14aa0b83f3424ea759000583.ctv
+#EXTINF:-1,24Kitchen
+http://78.130.250.2:7023/play/a02g/index.m3u8
+#EXTINF:-1,FOX Sports 4 HD
+http://78.130.250.2:7023/play/a02s/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://78.130.250.2:7023/play/a030/index.m3u8
+#EXTINF:-1,NL: NPO1 HD
+http://78.130.250.2:7023/play/a01h/index.m3u8
+#EXTINF:-1,NL: Veronica/DisneyXD HD
+http://78.130.250.2:7023/play/a01j/index.m3u8
+#EXTINF:-1,NL: RTL7 HD
+http://78.130.250.2:7023/play/a014/index.m3u8
+#EXTINF:-1,NL: NPO2 HD
+http://78.130.250.2:7023/play/a00y/index.m3u8
+#EXTINF:-1,NL: RTL4 HD
+http://78.130.250.2:7023/play/a012/index.m3u8
+#EXTINF:-1,NL: RTL8 HD
+http://78.130.250.2:7023/play/a01m/index.m3u8
+#EXTINF:-1,Mezzo HD
+http://78.130.250.2:7023/play/a03a/index.m3u8
+#EXTINF:-1,NL: NPO3 HD
+http://78.130.250.2:7023/play/a01k/index.m3u8
+#EXTINF:-1,NL: RTL5 HD
+http://78.130.250.2:7023/play/a013/index.m3u8
+#EXTINF:-1,Nautical HD
+http://78.130.250.2:7023/play/a02x/index.m3u8
+#EXTINF:-1,FOX Channel
+http://78.130.250.2:7023/play/a027/index.m3u8
+#EXTINF:-1,E! Entertainment BNL
+http://78.130.250.2:7023/play/a02w/index.m3u8
+#EXTINF:-1,NL: Disney Channel
+http://78.130.250.2:7023/play/a00x/index.m3u8
+#EXTINF:-1,ZES
+http://78.130.250.2:7023/play/a02o/index.m3u8
+#EXTINF:-1,192TV
+http://78.130.250.2:7023/play/a02p/index.m3u8
+#EXTINF:-1,SBS6 HD
+http://78.130.250.2:7023/play/a02r/index.m3u8
+#EXTINF:-1,NL: NPO Politiek
+http://78.130.250.2:7023/play/a00v/index.m3u8
+#EXTINF:-1,NL: NET5 HD
+http://78.130.250.2:7023/play/a01i/index.m3u8
+#EXTINF:-1,NL: FOX Sports EDL 1 HD
+http://78.130.250.2:7023/play/a010/index.m3u8
+#EXTINF:-1,RTL Z
+http://78.130.250.2:7023/play/a02j/index.m3u8
