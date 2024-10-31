@@ -1,17 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="MTVGermany.de" tvg-logo="https://bit.ly/3yfZuV9",MTV GERMANY
-XXX
+[#EXTINF:0 tvg-id="MTVGermany.de" tvg-logo="https://bit.ly/3yfZuV9",MTV GERMANY]
 
 #EXTINF:01 tvg-id="DELUXE.MUSIC.de" tvg-logo="https://bit.ly/3Jjlwg2",Deluxe Musicʰᵈ
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:01 tvg-id="DELUXE.MUSIC.de" tvg-logo="https://bit.ly/3Jjlwg2",Deluxe Musicʰᵈ
 http://143.244.58.121:2090/live/rb3LPKp7gX/MS46y0KjDc/4729.m3u8?token=SEELUENQGwpHB10CVFZVAw4BC1gHWVQHAA5QClUPB1QDAlFXAwFYB1ATFBcQEURXVg5mCAdDDAYCClsfEkJCAEE8ClUSAhsIXQQIF09HQltaBhtbU00UQlxcQAkSAQRSA0FPE1VATVUXX1lZPAFTRF4AXENZD0NeWRRAXF5oVQBeAg1VEgIbAUcdGlwQFRQIFSxNBA0EQhJmFiMRHBVTDEcRAkVVGgMSVwYOBUFJFFFYFlcVERgUCBd/MBEcFVQdRwYNQllXVxJfE1UGFl0UHhUKSj4RBEVGR10DXlVFE18RU0EdElVYSDpSV1sNAFVGXgxXEkFbFAMXFEBeX1lYEVwRPEFZXBsKRwcNAFtHSw==
-#EXTINF:01 tvg-id="Deluxe.Flashback.de" tvg-logo="https://bit.ly/3ZQjUjU",Deluxe Flashbackᶠʰᵈ
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:01 tvg-id="Deluxe.Rock.de" tvg-logo="https://bit.ly/3LkKsoX",Deluxe Rockᶠʰᵈ
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
 #EXTINF:01 tvg-id="Deluxe.Dance.de" tvg-logo="https://bit.ly/3mTAuRj",Deluxe Danceᶠʰᵈ
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:01 tvg-id="Deluxe.Rap.de" tvg-logo="https://bit.ly/3Loj5dG",Deluxe Rapᶠʰᵈ
@@ -25,14 +20,14 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:0 tvg-id="192tv.nl" tvg-logo="https://bit.ly/3CXmVWi",192 TV
 https://ms7.mx-cd.net/dtv-02/87-308033/192TV.smil/chunklist_w1276310355_b4292608_slNLD.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/xuqrt", Télé Melody
-http://filex.tv:8080/Shahid4455/889900/282227
-#EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/xuqrt", Télé Melody
-http://348802865187318207.ofd0208.xyz:80/play/YF2935U3VP/xYjAt6Mhaf/318207.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/xuqrt", Télé Melody
-http://348802865187339066.ofd0208.xyz:80/play/YF2935U3VP/xYjAt6Mhaf/339066.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/xuqrt", Télé Melody
-http://348802865187723845.ofd0208.xyz:80/play/YF2935U3VP/xYjAt6Mhaf/723845.ts
+#EXTINF:0 tvg-id="192tv.nl" tvg-logo="https://www.maxx-xs.nl/images/covers/large/cover_395900_front.png",192 TV 60s
+https://ms2.mx-cd.net/dtv-12/87-3253224/60-s.smil/chunklist_w1284058650_b4292608_slNLD.m3u8
+#EXTINF:0 tvg-id="192tv.nl" tvg-logo="https://www.maxx-xs.nl/images/covers/large/cover_395902_front.png",192 TV 70s
+https://ms10.mx-cd.net/dtv-12/87-3253226/70-s.smil/chunklist_w1062717557_b1894400_slNLD.m3u8
+#EXTINF:0 tvg-id="192tv.nl" tvg-logo="https://www.maxx-xs.nl/images/covers/large/cover_65035_front.png",192 TV
+https://ms10.mx-cd.net/dtv-02/87-308033/192TV.smil/chunklist_w41715569_b4292608_slNLD.m3u8
+
+[#EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/xuqrt", Télé Melody]
 
 #EXTINF:0 tvg-id="" tvg-logo="https://rb.gy/mycgf", Radio Italia Anni 60 TV
 https://5f204aff97bee.streamlock.net/Anni60TV/livestream/chunklist_w103717670.m3u8
