@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTM3U
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZoIqIE",WTXLDT (ABC27 Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/chunklist_w73961159_tkd293emF0b2tlbmhhc2g9Q0EyanVwTUhTWVF3OXh1MFd6S3hZZE4wRVY0blA1WDctWktwUWVYRkkwQT0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/chunklist_w1669596610_tkd293emF0b2tlbmhhc2g9SldPNWJRNU9NSjU4cUtTX1FOM1c0NjBBTVc5YkdGeXgzd1Ytck9xbW9uYz0=.m3u8
 
 #EXTINF:0 tvg-logo="https://rb.gy/1i6a4q",WABC (ABC7 New York)
 http://ultrontv.xyz/live/Mahen123/Mahen77/134877.ts
@@ -17,7 +17,7 @@ http://kstv.us:8080/live/158M4wqEtD/3637567530/15956.ts
 http://kstv.us:8080/live/158M4wqEtD/3637567530/40780.ts
 
 #EXTINF:0 tvg-logo="https://bit.ly/3Jk5K4o",WCTVDT (CBS Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/chunklist_w1248144993_tkd293emF0b2tlbmhhc2g9em5BMnFyZ1owSnk3NlhuVm12NjBlT3ZYcm40YmpvWW9VXzN0NWhCTnhYND0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/chunklist_w1869162210_tkd293emF0b2tlbmhhc2g9T0phTnZTUzJWVjJMLVl3aVQ5Y2JOZ2V2TVpwb1NsRUtjV0QzRE9wNFpBST0=.m3u8
 
 #EXTINF:0 tvg-logo="https://rb.gy/blz4hz",WCBS (CBS2 New York)
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/134984.ts
@@ -29,7 +29,7 @@ http://199.127.60.65:25461/live/ckjennij438/010010/60225.m3u8?token=TBsOVUVZFlgW
 http://fortv.cc:8080/JrF2nJ/315485/121234
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZshFCZ",WTWCDT2 (FOX49 Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/chunklist_w1639534252_tkd293emF0b2tlbmhhc2g9SWNJaDdSU0wyMl9YcjBtOEx1NXVtVkR2cEtjNHpVWkRJZkZaX2hqSnNVRT0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/chunklist_w1647543538_tkd293emF0b2tlbmhhc2g9TjdWbjN4T2g0TjNZYU1ERTk1V0p3eGJMUnc5OUJEY3Q1U1ljYUxvWGNXZz0=.m3u8
 
 #EXTINF:0 tvg-logo="https://shorturl.at/chrGM",WNYW (FOX5 New York)
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/135021.ts
@@ -37,7 +37,7 @@ http://ultrontv.xyz:80/live/Mahen123/Mahen77/135021.ts
 http://fortv.cc:8080/JrF2nJ/315485/120655
 
 #EXTINF:0 tvg-logo="https://rb.gy/8kvo0r",WTWCDT (NBC40 Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/chunklist_w120335627_tkd293emF0b2tlbmhhc2g9WGV5WDVBWE9YM2JQQkNkOGZ5OUh0U0Y5Rml4SzFqNVk2aWZBWmJmbVd4ST0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/chunklist_w804075297_tkd293emF0b2tlbmhhc2g9elJmRWQtcXdwU3ZrRmtJRDJ0VkNIdFgxZVpzTkFNMjdKV2FoSHVIVGJZRT0=.m3u8
 
 #EXTINF:0 tvg-logo="https://rb.gy/v3324y",WNBC (NBC4 New York)
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/134936.ts
@@ -47,15 +47,15 @@ http://199.127.60.65:25461/live/ckjennij438/010010/60380.m3u8?token=TBsOVUVZFlgW
 http://199.127.60.65:25461/live/ckjennij438/010010/60289.m3u8?token=TBsOVUVZFlgWBgFTVQlTUwZYCFIAUVMHVQoACwIHBF1RDVcGVwBQWgEVGkZCTBAGVgxvDF1BWAdTCg8LHxBBS1JLOV1SEw5ABQ8FVAcaTkFDCF0AG1lSHUFIXlYRCBYJBgpTDRQdFgdMQ1MWX1kOPFMERgxaBkALDU1bXh8QW1ZoXQNZV19QQA4VB0YdGgsQR0MKC0wPDh1BWl5GQVNAXRUDCEFaXRhAV1hDCkVKG0ENQ3c3G09AVBtMUlxAW1tWFQNEWQVEDEAYFV8XbkoHEEMTVQRUBhATWRoHEB8QWVlPZgVbWF9RAUBeWQpCGlhBBUMcR1QMDFgXV0VtQ1tQGg0bVwUFAg1ASQ==
 
 #EXTINF:0 tvg-logo="https://bit.ly/3KXhLOG",WFSUDT (PBS | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/chunklist_w791517683_tkd293emF0b2tlbmhhc2g9UHVWVlM4SlUwWTFlRDUzWGlnS05FSC0tR19LYWR3ZFdfQ3ZmdTA1bV9acz0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/chunklist_w1007620838_tkd293emF0b2tlbmhhc2g9djdud3ltUXFYVGhkNUUzSmZLb19HaC0yUTJIZkNsdURLTjhramx3XzFZVT0=.m3u8
 #EXTINF:0 tvg-logo="https://shorturl.at/auU89",WNET (PBS | New York)
 http://fortv.cc:8080/JrF2nJ/315485/149622
 
 #EXTINF:0 tvg-logo="https://rb.gy/gqit3x",THE365
-https://5e6cea03e25b6.streamlock.net/live/COMETTV.stream/chunklist_w2135184067_tkd293emF0b2tlbmhhc2g9NVRFTlRSaGlobVE5eEJUckdLNXNWVUFUeFBJbkhNSFR1a2NJYTdVMjdoWT0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/COMETTV.stream/chunklist_w1201483513_tkd293emF0b2tlbmhhc2g9R0Q3RW04LURsYUZtbVo3Rl9ldm5ELWdBRjJ3U3JIVnFpR3ZlQ3dUWmg4MD0=.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/41TJDZW",Ion Television
-https://5e6cea03e25b6.streamlock.net/live/ION.stream/chunklist_w1127137330_tkd293emF0b2tlbmhhc2g9c2xzc1dUaUphSTJkTndlZFBSY1VuZjMyYU1xVEJ3RjdWUEpJcXNPNDEwUT0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/ION.stream/chunklist_w2066822715_tkd293emF0b2tlbmhhc2g9QU5rM1lKSDJUZ1d2Z3hZTUt5Z3FFQ2JHYV9GREZGQmtVLUpGWFR2T2hDND0=.m3u8
 
 [#EXTINF:0 tvg-logo="https://rb.gy/w2n7dq",MyNet (MyNetworkTV | Tallahassee)]
 
@@ -63,19 +63,19 @@ https://5e6cea03e25b6.streamlock.net/live/ION.stream/chunklist_w1127137330_tkd29
 http://fortv.cc:8080/JrF2nJ/315485/176368
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZISRq4",WFSUDT3 (Create | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/chunklist_w272114764_tkd293emF0b2tlbmhhc2g9UW9rVVA5cjNzdkhjLXRkN3RRaUlyTjZwdGtaaHdvRkVKckhhRUhuUVFzTT0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/chunklist_w1231127799_tkd293emF0b2tlbmhhc2g9amVjYW1YdGQ0dHFnV2Jza1VnOS1vYWVLTUlDYWNmMmREdzdKY0UwdXMtZz0=.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZGnn4b",CHARGE!
 http://fortv.cc:8080/JrF2nJ/315485/79594
 
 #EXTINF:0 tvg-logo="https://rb.gy/oi2b1n",COMET
-https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/chunklist_w715316269_tkd293emF0b2tlbmhhc2g9dklxMmJyTHRjZ0dOeVE3NVRLQklvOFFHSFlNT20xMzgwRWlTUjZzV21ROD0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/chunklist_w1147950852_tkd293emF0b2tlbmhhc2g9bmNSOWN5d08wZlpiT3d4Tjk5bDhzLVA2b3MtS0ZZNk8yckZqMHIxV3YzWT0=.m3u8
 
 #EXTINF:0 tvg-logo="https://rb.gy/ppn5yt",BOUNCE
-https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/chunklist_w392692495_tkd293emF0b2tlbmhhc2g9eTE4cERpc1hucDhyZ1NwenhSYWxzcDBvdkg5U1YwNXdmUFdvSnNDbC1OMD0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/chunklist_w1643975656_tkd293emF0b2tlbmhhc2g9V3Q3VkZIWTllcHR5MUpKcmZUbGI4aFVQTG5CRFJwdWdNNjlZeXBCdWVHYz0=.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/3JjkhgV",WTLHDT (Heroes & Icons | Tallahassee)
-https://5e6cea03e25b6.streamlock.net/live/HI.stream/chunklist_w744729288_tkd293emF0b2tlbmhhc2g9ZkRaZFZlOEVnY3FNamlZazZFWkxSbDE5eW9QUkl4eVNlZmtNZ25OaFQ2TT0=.m3u8
+https://5e6cea03e25b6.streamlock.net/live/HI.stream/chunklist_w1484997926_tkd293emF0b2tlbmhhc2g9aF9hdjRibDVPd2IwZWFST0lqX3FuSVotYUVvaUxIZmx1aFN6RGxvZTNWQT0=.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/3Nnhpyx",WTLHDT2 (The CW | Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/chunklist_w1554400986_tkd293emF0b2tlbmhhc2g9YXFzbzBtNW5vSnpwcy1mRE1RMzNfR3RmSDZua0ViV2ZDVVZ2NXNGUHdOdz0=.m3u8
