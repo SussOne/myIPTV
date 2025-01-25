@@ -2,6 +2,8 @@
 #EXTINF:0 tvg-logo="https://bit.ly/3ZoIqIE",WTXLDT (ABC27 Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/chunklist_w1890375639_tkd293emF0b2tlbmhhc2g9MXlQZ3lqOWdZTWxvQVJHZFZST0l0RmpyTVl4SFI3R0tOSzUxQ19NQTR2WT0=.m3u8
 
+#EXTINF:0 tvg-logo="https://shorturl.at/BaUDX",WJLA (ABC7 Washington)
+https://akamai-gcs-streams-prod.fubo.tv/WJLA/D2817/video-1539000-6280605371040.mp4v?hdnts=ip%3D184.189.4.160~st%3D1737791364~exp%3D1737877764~acl%3D%2F%2A~data%3D1737877764~hmac%3D4e9fa7664487da5bca74f526cfad6308beb5c3879bcdf6cbb217781258cfe4be
 #EXTINF:0 tvg-logo="https://rb.gy/1i6a4q",WABC (ABC7 New York)
 http://ultrontv.xyz/live/Mahen123/Mahen77/134877.ts
 #EXTINF:0 tvg-logo="https://rb.gy/1i6a4q",WABC (ABC7 New York)
@@ -18,6 +20,8 @@ http://kstv.us:8080/live/158M4wqEtD/3637567530/40780.ts
 #EXTINF:0 tvg-logo="https://bit.ly/3Jk5K4o",WCTVDT (CBS Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/chunklist_w724174336_tkd293emF0b2tlbmhhc2g9bjRwSlhtZ1IyaHh1eVBXRWs5enBWZHFtVUI4WU1OYWJOWTNYWURhOXoxOD0=.m3u8
 
+#EXTINF:0 tvg-logo="https://shorturl.at/lcGa4",WUSA (CBS9 Washington)
+https://playlist-central.fubo.tv/8/media.m3u8?hdnts=ip%3D184.189.4.160~st%3D1737791423~exp%3D1737877823~acl%3D%2F%2A~data%3D1737877823~hmac%3D0c316eef81e5cb6adade2ffcdde9b70ff5dba36e1e3572b201be2726275b887b&is_azure=1&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiV1VTQSIsImRldmljZSI6IkFMTCIsImJhbmR3aWR0aCI6IjU3NDMzNjAiLCJjb3VudHJ5IjoiVVNBIiwidXNlcklkIjoiNjEzM2U1ZTEyN2VjODUwMDAxZDE2OWFiIiwicmVxdWVzdFR5cGUiOiJsaXZlIiwicmVnaW9uIjoiY2VudHJhbCIsImV4cGlyZXNBdCI6IjIwMjUtMDEtMjZUMDg6MDA6MjNaIn0sImhvbWVaaXAiOiIzMjIyMSIsImdlb1ppcCI6IjIyMDM4In0.bSVT5op-j8o-w2ay7uSRUS1BTWL1zabbm8Zq1W5R_6Q
 #EXTINF:0 tvg-logo="https://rb.gy/blz4hz",WCBS (CBS2 New York)
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/134984.ts
 #EXTINF:0 tvg-logo="https://rb.gy/blz4hz",WCBS (CBS2 New York)
@@ -30,6 +34,8 @@ http://fortv.cc:8080/JrF2nJ/315485/121234
 #EXTINF:0 tvg-logo="https://bit.ly/3ZshFCZ",WTWCDT2 (FOX49 Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/chunklist_w41519412_tkd293emF0b2tlbmhhc2g9NHBzd3psdzNTaHNSMlJYbjBQQXQxaEpSRU1lS3h6R3JBRjM3bzZnUmFRUT0=.m3u8
 
+#EXTINF:0 tvg-logo="https://shorturl.at/5niG9",WTTG (FOX5 Washington)
+https://playlist-central.fubo.tv/1/media.m3u8?hdnts=ip%3D184.189.4.160~st%3D1737791553~exp%3D1737877953~acl%3D%2F%2A~data%3D1737877953~hmac%3D2f9c0d962d462d3178df1d8304608b5952f2336f9d770da061c46531918230fe&is_azure=1&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiV1RURyIsImRldmljZSI6IkFMTCIsImJhbmR3aWR0aCI6IjY5MjE3MzkiLCJjb3VudHJ5IjoiVVNBIiwidXNlcklkIjoiNjEzM2U1ZTEyN2VjODUwMDAxZDE2OWFiIiwicmVxdWVzdFR5cGUiOiJsaXZlIiwicmVnaW9uIjoiY2VudHJhbCIsImV4cGlyZXNBdCI6IjIwMjUtMDEtMjZUMDg6MDI6MzNaIn0sImhvbWVaaXAiOiIzMjIyMSIsImdlb1ppcCI6IjIyMDM4In0.IwEFjAYDvPbDMBcrjyWpOurhX4em4YtIisDJUGnL3Gk
 #EXTINF:0 tvg-logo="https://shorturl.at/chrGM",WNYW (FOX5 New York)
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/135021.ts
 #EXTINF:0 tvg-logo="https://rb.gy/evzoco",KTTV (FOX11 Los Angeles)
@@ -38,6 +44,8 @@ http://fortv.cc:8080/JrF2nJ/315485/120655
 #EXTINF:0 tvg-logo="https://rb.gy/8kvo0r",WTWCDT (NBC40 Tallahassee)
 https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/chunklist_w1316557395_tkd293emF0b2tlbmhhc2g9bXpJbTNQSUkxamFXaG9VREFjRHRjdjlXeURFeEVHcmNva3RONXVGZzJ6UT0=.m3u8
 
+#EXTINF:0 tvg-logo="https://shorturl.at/iaqD2",WRC-TV (NBC4 Washington)
+https://playlist-central.fubo.tv/7/media.m3u8?hdnts=ip%3D184.189.4.160~st%3D1737791594~exp%3D1737877994~acl%3D%2F%2A~data%3D1737877994~hmac%3D9bc4c4048c5affc129f53c9544e121e18fce77c207fa22ad73142c1aac3330c5&is_azure=1&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiV1JDIiwiZGV2aWNlIjoiQUxMIiwiYmFuZHdpZHRoIjoiNTk3MDQ4MyIsImNvdW50cnkiOiJVU0EiLCJ1c2VySWQiOiI2MTMzZTVlMTI3ZWM4NTAwMDFkMTY5YWIiLCJyZXF1ZXN0VHlwZSI6ImxpdmUiLCJyZWdpb24iOiJjZW50cmFsIiwiZXhwaXJlc0F0IjoiMjAyNS0wMS0yNlQwODowMzoxNFoifSwiaG9tZVppcCI6IjMyMjIxIiwiZ2VvWmlwIjoiMjIwMzgifQ.i1CK4EvZiNoiDJ1dyL9yhzo_9wvJ9BQgxBLA3OFPmnI
 #EXTINF:0 tvg-logo="https://rb.gy/v3324y",WNBC (NBC4 New York)
 http://ultrontv.xyz:80/live/Mahen123/Mahen77/134936.ts
 #EXTINF:0 tvg-logo="https://rb.gy/jhjor",WMAQ-TV (NBC5 Chicago)
