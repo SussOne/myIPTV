@@ -1,8 +1,5 @@
 #EXTM3U
 
-
-[#EXTINF:0 tvg-id="MTVGermany.de" tvg-logo="https://bit.ly/3yfZuV9",MTV GERMANY]
-
 #EXTINF:01 tvg-id="DELUXE.MUSIC.de" tvg-logo="https://bit.ly/3Jjlwg2",Deluxe Musicʰᵈ
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:01 tvg-id="DELUXE.MUSIC.de" tvg-logo="https://bit.ly/3Jjlwg2",Deluxe Musicʰᵈ
@@ -89,7 +86,10 @@ http://781416484279319284.ofre817.xyz/live/ja927602/Xtb8BauVb6TR/899001.ts
 http://elit4kiptv.info:8080/gt9TYk1YDv/hrkI6F8oSG/187446
 
 #EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC
-http://ultrontv.xyz/live/Mahen123/Mahen77/194426.ts
+http://ultrontv.xyz/live/Mahen123/Mahen77/246513.ts
+#EXTINF:0 tvg-logo="https://bit.ly/3ZP8qwF",MTV CLASSIC
+https://playlist-central.fubo.tv/0/media.m3u8?hdnts=ip%3D184.189.4.160~st%3D1737789879~exp%3D1737876279~acl%3D%2F%2A~data%3D1737876279~hmac%3D12ce4b68699fd27084076ea3087b96e8a2a67f131807f6616bd888a8088e2547&is_azure=1&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiTVRWQ0xIRCIsImRldmljZSI6IkFMTCIsImJhbmR3aWR0aCI6IjEzNTI1ODgiLCJjb3VudHJ5IjoiVVNBIiwidXNlcklkIjoiNjEzM2U1ZTEyN2VjODUwMDAxZDE2OWFiIiwicmVxdWVzdFR5cGUiOiJsaXZlIiwicmVnaW9uIjoiY2VudHJhbCIsImV4cGlyZXNBdCI6IjIwMjUtMDEtMjZUMDc6MzQ6MzlaIn0sImhvbWVaaXAiOiIzMjIyMSIsImdlb1ppcCI6IjIyMDM4In0.Jc0vnd1wS6YhNmmKPj_ixSQAclkFDXtMhvq_e_NbtPA
+
 #EXTINF:-1,TVM3ᶠʰᵈ
 https://edge19.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8?spark=aa58f8f8-108f-4de2-8423-dd812b604624&token=
 #EXTINF:-1,TVM3ᶠʰᵈ
